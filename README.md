@@ -49,6 +49,9 @@ O pipeline é composto por 3 tasks principais no DAG:
 2. **`run_bronze_script`** → Executa script PySpark via `spark-submit` para gerar/atualizar a camada Bronze
 3. **`run_silver_script`** → Executa script PySpark para atualizar a camada Silver com os dados mais recentes
 
+### 📷 Visualização do JSON
+![JSON](imgs/json.png)
+
 ### 📷 Visualização do DAG
 
 ![DAG Airflow](imgs/dag_airflow.png)
