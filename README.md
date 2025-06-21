@@ -94,7 +94,7 @@ python -m venv venv && source venv/bin/activate
 pip install "apache-airflow==2.7.3" --constraint "https://raw.githubusercontent.com/apache/airflow/constraints-2.7.3/constraints-3.9.txt"
 
 # 3. Definir variáveis de ambiente
-export AIRFLOW_HOME=~/opt/airflow
+export AIRFLOW_HOME=~/opt/airflow (caminho para a pasta do Airflow)
 export AIRFLOW__CORE__LOAD_EXAMPLES=False
 
 # 4. Inicializar o Airflow standalone
@@ -146,6 +146,16 @@ Os dados da camada `silver/` e `gold/` podem ser consumidos por ferramentas de B
 
 ---
 
+## 💎 Camada Gold (em breve)
+
+A camada gold será responsável por:
+
+- Agregações por variação diária
+- Rankings por capitalização
+- Criação de indicadores para consumo direto em Power BI
+
+---
+
 ## 📌 Roadmap futuro
 
 * [ ] Criar camada `gold/` com visões analíticas (top moedas, variações, market cap)
@@ -154,10 +164,19 @@ Os dados da camada `silver/` e `gold/` podem ser consumidos por ferramentas de B
 
 ---
 
+## 🎓 Conceitos Aplicados
+
+- Scheduling e dependências com Airflow
+- `spark-submit` com parâmetros via `sys.argv`
+- Estrutura em camadas com Delta Lake
+- Detecção de mudanças em dados semi-estruturados
+
+---
+
 ## 🧑‍💻 Autor
 
 **Yan Arcanjo**
-Desenvolvedor de pipelines analíticos com foco em dados organizados e rastreáveis usando Spark, Airflow, e arquitetura medallion.
+Engenheiro de dados com foco em dados organizados e rastreáveis usando Spark, Airflow, e arquitetura medallion.
 
 ---
 
