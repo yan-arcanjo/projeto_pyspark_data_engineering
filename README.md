@@ -1,3 +1,8 @@
+![Spark](https://img.shields.io/badge/spark-3.4.2-orange)
+![Delta Lake](https://img.shields.io/badge/delta--lake-2.4.0-blue)
+![Airflow](https://img.shields.io/badge/airflow-2.7.3-green)
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+
 # 🔗 Projeto de Engenharia de Dados – CoinGecko Pipeline
 
 Este projeto simula um pipeline completo de engenharia de dados, utilizando extrações da [API CoinGecko](https://www.coingecko.com/) e tecnologias como **Apache Airflow**, **PySpark** e **Delta Lake** para transformar os dados em camadas `stage`, `bronze` e `silver`, com foco em aplicações analíticas e estruturadas para consumo via Power BI.
@@ -43,6 +48,10 @@ O pipeline é composto por 3 tasks principais no DAG:
 1. **`extract_api_data`** → Extrai os dados da CoinGecko e salva como JSON na pasta `stage/`
 2. **`run_bronze_script`** → Executa script PySpark via `spark-submit` para gerar/atualizar a camada Bronze
 3. **`run_silver_script`** → Executa script PySpark para atualizar a camada Silver com os dados mais recentes
+
+### 📷 Visualização do DAG
+
+![DAG Airflow](imgs/dag_airflow.png)
 
 ### 🔧 Exemplo da Task `run_bronze_script`:
 
