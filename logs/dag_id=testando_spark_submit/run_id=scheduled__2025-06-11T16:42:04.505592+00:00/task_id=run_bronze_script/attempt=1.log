@@ -1,0 +1,65 @@
+[2025-06-12 13:42:43,162] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: testando_spark_submit.run_bronze_script scheduled__2025-06-11T16:42:04.505592+00:00 [queued]>
+[2025-06-12 13:42:43,194] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: testando_spark_submit.run_bronze_script scheduled__2025-06-11T16:42:04.505592+00:00 [queued]>
+[2025-06-12 13:42:43,195] {taskinstance.py:1356} INFO - 
+--------------------------------------------------------------------------------
+[2025-06-12 13:42:43,196] {taskinstance.py:1357} INFO - Starting attempt 1 of 2
+[2025-06-12 13:42:43,196] {taskinstance.py:1358} INFO - 
+--------------------------------------------------------------------------------
+[2025-06-12 13:42:43,274] {taskinstance.py:1377} INFO - Executing <Task(BashOperator): run_bronze_script> on 2025-06-11 16:42:04.505592+00:00
+[2025-06-12 13:42:43,281] {standard_task_runner.py:52} INFO - Started process 20610 to run task
+[2025-06-12 13:42:43,292] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', 'testando_spark_submit', 'run_bronze_script', 'scheduled__2025-06-11T16:42:04.505592+00:00', '--job-id', '15', '--raw', '--subdir', 'DAGS_FOLDER/teste.py', '--cfg-path', '/tmp/tmp7kv63k68', '--error-file', '/tmp/tmpt6ixx25j']
+[2025-06-12 13:42:43,294] {standard_task_runner.py:80} INFO - Job 15: Subtask run_bronze_script
+[2025-06-12 13:42:43,545] {task_command.py:370} INFO - Running <TaskInstance: testando_spark_submit.run_bronze_script scheduled__2025-06-11T16:42:04.505592+00:00 [running]> on host YanArcanjo.localdomain
+[2025-06-12 13:42:43,835] {taskinstance.py:1569} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=seu_email@exemplo.com
+AIRFLOW_CTX_DAG_OWNER=seu_nome
+AIRFLOW_CTX_DAG_ID=testando_spark_submit
+AIRFLOW_CTX_TASK_ID=run_bronze_script
+AIRFLOW_CTX_EXECUTION_DATE=2025-06-11T16:42:04.505592+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2025-06-11T16:42:04.505592+00:00
+[2025-06-12 13:42:43,839] {subprocess.py:62} INFO - Tmp dir root location: 
+ /tmp
+[2025-06-12 13:42:43,842] {subprocess.py:74} INFO - Running command: ['bash', '-c', 'spark-submit --packages io.delta:delta-core_2.12:2.4.0             --conf "spark.sql.extensions=io.delta.sql.DeltaSparkSessionExtension"             --conf "spark.sql.catalog.spark_catalog=org.apache.spark.sql.delta.catalog.DeltaCatalog"             --conf "spark.driver.extraJavaOptions=-Dlog4j.configurationFile=src/jobs/log4j2.properties"             ./mnt/c/Users/arcan/Documents/airflow/src/jobs/meuscript.py tabela_airflow']
+[2025-06-12 13:42:43,860] {subprocess.py:85} INFO - Output:
+[2025-06-12 13:42:51,912] {subprocess.py:92} INFO - ERROR StatusLogger Reconfiguration failed: No configuration found for '53bd815b' at 'null' in 'null'
+[2025-06-12 13:42:51,938] {subprocess.py:92} INFO - ERROR StatusLogger Reconfiguration failed: No configuration found for 'Default' at 'null' in 'null'
+[2025-06-12 13:42:53,072] {subprocess.py:92} INFO - 25/06/12 13:42:53 WARN Utils: Your hostname, YanArcanjo resolves to a loopback address: 127.0.1.1; using 10.255.255.254 instead (on interface lo)
+[2025-06-12 13:42:53,090] {subprocess.py:92} INFO - 25/06/12 13:42:53 WARN Utils: Set SPARK_LOCAL_IP if you need to bind to another address
+[2025-06-12 13:42:54,082] {subprocess.py:92} INFO - :: loading settings :: url = jar:file:/mnt/c/Users/arcan/Documents/airflow/.venv/lib/python3.10/site-packages/pyspark/jars/ivy-2.5.1.jar!/org/apache/ivy/core/settings/ivysettings.xml
+[2025-06-12 13:42:54,346] {subprocess.py:92} INFO - Ivy Default Cache set to: /home/yanarcanjo/.ivy2/cache
+[2025-06-12 13:42:54,347] {subprocess.py:92} INFO - The jars for the packages stored in: /home/yanarcanjo/.ivy2/jars
+[2025-06-12 13:42:54,368] {subprocess.py:92} INFO - io.delta#delta-core_2.12 added as a dependency
+[2025-06-12 13:42:54,373] {subprocess.py:92} INFO - :: resolving dependencies :: org.apache.spark#spark-submit-parent-01ff762b-39ae-436c-99c2-dd59e85bab49;1.0
+[2025-06-12 13:42:54,374] {subprocess.py:92} INFO - 	confs: [default]
+[2025-06-12 13:42:54,692] {subprocess.py:92} INFO - 	found io.delta#delta-core_2.12;2.4.0 in central
+[2025-06-12 13:42:54,757] {subprocess.py:92} INFO - 	found io.delta#delta-storage;2.4.0 in central
+[2025-06-12 13:42:54,810] {subprocess.py:92} INFO - 	found org.antlr#antlr4-runtime;4.9.3 in central
+[2025-06-12 13:42:54,865] {subprocess.py:92} INFO - :: resolution report :: resolve 479ms :: artifacts dl 14ms
+[2025-06-12 13:42:54,866] {subprocess.py:92} INFO - 	:: modules in use:
+[2025-06-12 13:42:54,867] {subprocess.py:92} INFO - 	io.delta#delta-core_2.12;2.4.0 from central in [default]
+[2025-06-12 13:42:54,868] {subprocess.py:92} INFO - 	io.delta#delta-storage;2.4.0 from central in [default]
+[2025-06-12 13:42:54,869] {subprocess.py:92} INFO - 	org.antlr#antlr4-runtime;4.9.3 from central in [default]
+[2025-06-12 13:42:54,870] {subprocess.py:92} INFO - 	---------------------------------------------------------------------
+[2025-06-12 13:42:54,871] {subprocess.py:92} INFO - 	|                  |            modules            ||   artifacts   |
+[2025-06-12 13:42:54,872] {subprocess.py:92} INFO - 	|       conf       | number| search|dwnlded|evicted|| number|dwnlded|
+[2025-06-12 13:42:54,873] {subprocess.py:92} INFO - 	---------------------------------------------------------------------
+[2025-06-12 13:42:54,873] {subprocess.py:92} INFO - 	|      default     |   3   |   0   |   0   |   0   ||   3   |   0   |
+[2025-06-12 13:42:54,874] {subprocess.py:92} INFO - 	---------------------------------------------------------------------
+[2025-06-12 13:42:54,878] {subprocess.py:92} INFO - :: retrieving :: org.apache.spark#spark-submit-parent-01ff762b-39ae-436c-99c2-dd59e85bab49
+[2025-06-12 13:42:54,879] {subprocess.py:92} INFO - 	confs: [default]
+[2025-06-12 13:42:54,893] {subprocess.py:92} INFO - 	0 artifacts copied, 3 already retrieved (0kB/15ms)
+[2025-06-12 13:42:55,885] {subprocess.py:92} INFO - 25/06/12 13:42:55 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[2025-06-12 13:42:57,041] {subprocess.py:92} INFO - python3: can't open file '/tmp/airflowtmp6lnjnchp/mnt/c/Users/arcan/Documents/airflow/src/jobs/meuscript.py': [Errno 2] No such file or directory
+[2025-06-12 13:42:57,074] {subprocess.py:92} INFO - 25/06/12 13:42:57 INFO ShutdownHookManager: Shutdown hook called
+[2025-06-12 13:42:57,077] {subprocess.py:92} INFO - 25/06/12 13:42:57 INFO ShutdownHookManager: Deleting directory /tmp/spark-eb2ecda5-6a11-46e7-bc88-426987839cfd
+[2025-06-12 13:42:57,339] {subprocess.py:96} INFO - Command exited with return code 2
+[2025-06-12 13:42:57,380] {taskinstance.py:1889} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/airflow/operators/bash.py", line 194, in execute
+    raise AirflowException(
+airflow.exceptions.AirflowException: Bash command failed. The command returned a non-zero exit code 2.
+[2025-06-12 13:42:57,392] {taskinstance.py:1395} INFO - Marking task as UP_FOR_RETRY. dag_id=testando_spark_submit, task_id=run_bronze_script, execution_date=20250611T164204, start_date=20250612T164243, end_date=20250612T164257
+[2025-06-12 13:42:57,466] {standard_task_runner.py:92} ERROR - Failed to execute job 15 for task run_bronze_script (Bash command failed. The command returned a non-zero exit code 2.; 20610)
+[2025-06-12 13:42:57,513] {local_task_job.py:156} INFO - Task exited with return code 1
+[2025-06-12 13:42:57,582] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

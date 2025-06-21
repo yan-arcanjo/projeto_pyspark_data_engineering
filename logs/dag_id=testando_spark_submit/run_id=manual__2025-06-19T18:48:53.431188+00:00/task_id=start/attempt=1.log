@@ -1,0 +1,20 @@
+[2025-06-19T15:49:06.333-0300] {logging_mixin.py:154} INFO - Changing /mnt/c/Users/arcan/Documents/airflow/logs/dag_id=testando_spark_submit/run_id=manual__2025-06-19T18:48:53.431188+00:00/task_id=start permission to 509
+[2025-06-19T15:49:06.567-0300] {logging_mixin.py:154} INFO - Changing /mnt/c/Users/arcan/Documents/airflow/logs/dag_id=testando_spark_submit/run_id=manual__2025-06-19T18:48:53.431188+00:00/task_id=start permission to 509
+[2025-06-19T15:49:06.774-0300] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: testando_spark_submit.start manual__2025-06-19T18:48:53.431188+00:00 [queued]>
+[2025-06-19T15:49:06.792-0300] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: testando_spark_submit.start manual__2025-06-19T18:48:53.431188+00:00 [queued]>
+[2025-06-19T15:49:06.793-0300] {taskinstance.py:1361} INFO - Starting attempt 1 of 2
+[2025-06-19T15:49:06.839-0300] {taskinstance.py:1382} INFO - Executing <Task(BashOperator): start> on 2025-06-19 18:48:53.431188+00:00
+[2025-06-19T15:49:06.843-0300] {standard_task_runner.py:57} INFO - Started process 52978 to run task
+[2025-06-19T15:49:06.848-0300] {standard_task_runner.py:84} INFO - Running: ['airflow', 'tasks', 'run', 'testando_spark_submit', 'start', 'manual__2025-06-19T18:48:53.431188+00:00', '--job-id', '33', '--raw', '--subdir', 'DAGS_FOLDER/teste.py', '--cfg-path', '/tmp/tmpcnx54np5']
+[2025-06-19T15:49:06.851-0300] {standard_task_runner.py:85} INFO - Job 33: Subtask start
+[2025-06-19T15:49:06.967-0300] {logging_mixin.py:154} INFO - Changing /mnt/c/Users/arcan/Documents/airflow/logs/dag_id=testando_spark_submit/run_id=manual__2025-06-19T18:48:53.431188+00:00/task_id=start permission to 509
+[2025-06-19T15:49:06.979-0300] {task_command.py:416} INFO - Running <TaskInstance: testando_spark_submit.start manual__2025-06-19T18:48:53.431188+00:00 [running]> on host YanArcanjo.localdomain
+[2025-06-19T15:49:07.146-0300] {taskinstance.py:1662} INFO - Exporting env vars: AIRFLOW_CTX_DAG_EMAIL='seu_email@exemplo.com' AIRFLOW_CTX_DAG_OWNER='seu_nome' AIRFLOW_CTX_DAG_ID='testando_spark_submit' AIRFLOW_CTX_TASK_ID='start' AIRFLOW_CTX_EXECUTION_DATE='2025-06-19T18:48:53.431188+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-06-19T18:48:53.431188+00:00'
+[2025-06-19T15:49:07.150-0300] {subprocess.py:63} INFO - Tmp dir root location: /tmp
+[2025-06-19T15:49:07.152-0300] {subprocess.py:75} INFO - Running command: ['/usr/bin/bash', '-c', 'echo "Executando minha DAG no Airflow!"']
+[2025-06-19T15:49:07.162-0300] {subprocess.py:86} INFO - Output:
+[2025-06-19T15:49:07.164-0300] {subprocess.py:93} INFO - Executando minha DAG no Airflow!
+[2025-06-19T15:49:07.165-0300] {subprocess.py:97} INFO - Command exited with return code 0
+[2025-06-19T15:49:07.224-0300] {taskinstance.py:1400} INFO - Marking task as SUCCESS. dag_id=testando_spark_submit, task_id=start, execution_date=20250619T184853, start_date=20250619T184906, end_date=20250619T184907
+[2025-06-19T15:49:07.302-0300] {local_task_job_runner.py:228} INFO - Task exited with return code 0
+[2025-06-19T15:49:07.343-0300] {taskinstance.py:2778} INFO - 1 downstream tasks scheduled from follow-on schedule check

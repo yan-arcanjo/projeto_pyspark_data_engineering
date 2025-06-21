@@ -1,0 +1,18 @@
+[2025-06-21T16:14:51.201-0300] {logging_mixin.py:154} INFO - Changing /mnt/c/Users/arcan/Documents/airflow/logs/dag_id=PIPELINE_COINGECKO/run_id=manual__2025-06-21T19:14:21.285307+00:00/task_id=extract_data_from_api permission to 509
+[2025-06-21T16:14:51.387-0300] {logging_mixin.py:154} INFO - Changing /mnt/c/Users/arcan/Documents/airflow/logs/dag_id=PIPELINE_COINGECKO/run_id=manual__2025-06-21T19:14:21.285307+00:00/task_id=extract_data_from_api permission to 509
+[2025-06-21T16:14:51.589-0300] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: PIPELINE_COINGECKO.extract_data_from_api manual__2025-06-21T19:14:21.285307+00:00 [queued]>
+[2025-06-21T16:14:51.610-0300] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: PIPELINE_COINGECKO.extract_data_from_api manual__2025-06-21T19:14:21.285307+00:00 [queued]>
+[2025-06-21T16:14:51.611-0300] {taskinstance.py:1361} INFO - Starting attempt 1 of 2
+[2025-06-21T16:14:51.657-0300] {taskinstance.py:1382} INFO - Executing <Task(PythonOperator): extract_data_from_api> on 2025-06-21 19:14:21.285307+00:00
+[2025-06-21T16:14:51.661-0300] {standard_task_runner.py:57} INFO - Started process 80407 to run task
+[2025-06-21T16:14:51.666-0300] {standard_task_runner.py:84} INFO - Running: ['airflow', 'tasks', 'run', 'PIPELINE_COINGECKO', 'extract_data_from_api', 'manual__2025-06-21T19:14:21.285307+00:00', '--job-id', '51', '--raw', '--subdir', 'DAGS_FOLDER/pipeline_coingecko.py', '--cfg-path', '/tmp/tmp_viz4epn']
+[2025-06-21T16:14:51.669-0300] {standard_task_runner.py:85} INFO - Job 51: Subtask extract_data_from_api
+[2025-06-21T16:14:51.785-0300] {logging_mixin.py:154} INFO - Changing /mnt/c/Users/arcan/Documents/airflow/logs/dag_id=PIPELINE_COINGECKO/run_id=manual__2025-06-21T19:14:21.285307+00:00/task_id=extract_data_from_api permission to 509
+[2025-06-21T16:14:51.799-0300] {task_command.py:416} INFO - Running <TaskInstance: PIPELINE_COINGECKO.extract_data_from_api manual__2025-06-21T19:14:21.285307+00:00 [running]> on host YanArcanjo.localdomain
+[2025-06-21T16:14:51.988-0300] {taskinstance.py:1662} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='yan_arcanjo' AIRFLOW_CTX_DAG_ID='PIPELINE_COINGECKO' AIRFLOW_CTX_TASK_ID='extract_data_from_api' AIRFLOW_CTX_EXECUTION_DATE='2025-06-21T19:14:21.285307+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-06-21T19:14:21.285307+00:00'
+[2025-06-21T16:14:51.990-0300] {pipeline_coingecko.py:15} INFO - Iniciando extração dos dados -> https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd ...
+[2025-06-21T16:14:52.802-0300] {pipeline_coingecko.py:22} INFO - Dados extraído e salvos -> /mnt/c/Users/arcan/Documents/airflow/data/1-stage/coingecko/coingecko.json ...
+[2025-06-21T16:14:52.804-0300] {python.py:194} INFO - Done. Returned value was: None
+[2025-06-21T16:14:52.821-0300] {taskinstance.py:1400} INFO - Marking task as SUCCESS. dag_id=PIPELINE_COINGECKO, task_id=extract_data_from_api, execution_date=20250621T191421, start_date=20250621T191451, end_date=20250621T191452
+[2025-06-21T16:14:52.884-0300] {local_task_job_runner.py:228} INFO - Task exited with return code 0
+[2025-06-21T16:14:52.936-0300] {taskinstance.py:2778} INFO - 1 downstream tasks scheduled from follow-on schedule check

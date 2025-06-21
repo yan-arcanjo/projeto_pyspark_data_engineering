@@ -1,0 +1,861 @@
+[2025-06-16T10:49:54.184-0300] {processor.py:157} INFO - Started process (PID=42314) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T10:49:54.188-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T10:49:54.191-0300] {logging_mixin.py:154} INFO - [2025-06-16T10:49:54.189-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T10:49:54.230-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T10:49:54.434-0300] {logging_mixin.py:154} INFO - [2025-06-16T10:49:54.434-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T10:49:54.479-0300] {logging_mixin.py:154} INFO - [2025-06-16T10:49:54.478-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T10:49:54.610-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.431 seconds
+[2025-06-16T10:51:16.947-0300] {processor.py:157} INFO - Started process (PID=42803) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T10:51:16.949-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T10:51:16.950-0300] {logging_mixin.py:154} INFO - [2025-06-16T10:51:16.950-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T10:51:16.977-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T10:51:17.118-0300] {logging_mixin.py:154} INFO - [2025-06-16T10:51:17.117-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T10:51:17.147-0300] {logging_mixin.py:154} INFO - [2025-06-16T10:51:17.147-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T10:51:17.234-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.291 seconds
+[2025-06-16T10:52:23.657-0300] {processor.py:157} INFO - Started process (PID=43113) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T10:52:23.659-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T10:52:23.661-0300] {logging_mixin.py:154} INFO - [2025-06-16T10:52:23.660-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T10:52:23.684-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T10:52:23.725-0300] {logging_mixin.py:154} INFO - [2025-06-16T10:52:23.725-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T10:52:23.752-0300] {logging_mixin.py:154} INFO - [2025-06-16T10:52:23.752-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T10:52:23.839-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.186 seconds
+[2025-06-16T10:52:57.164-0300] {processor.py:157} INFO - Started process (PID=43211) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T10:52:57.165-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T10:52:57.168-0300] {logging_mixin.py:154} INFO - [2025-06-16T10:52:57.167-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T10:52:57.197-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T10:52:57.248-0300] {logging_mixin.py:154} INFO - [2025-06-16T10:52:57.247-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T10:52:57.292-0300] {logging_mixin.py:154} INFO - [2025-06-16T10:52:57.291-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T10:52:57.391-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.231 seconds
+[2025-06-16T10:53:29.945-0300] {processor.py:157} INFO - Started process (PID=43298) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T10:53:29.947-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T10:53:29.949-0300] {logging_mixin.py:154} INFO - [2025-06-16T10:53:29.948-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T10:53:29.975-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T10:53:30.022-0300] {logging_mixin.py:154} INFO - [2025-06-16T10:53:30.021-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T10:53:30.054-0300] {logging_mixin.py:154} INFO - [2025-06-16T10:53:30.054-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T10:53:30.162-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.223 seconds
+[2025-06-16T10:54:02.903-0300] {processor.py:157} INFO - Started process (PID=43396) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T10:54:02.906-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T10:54:02.908-0300] {logging_mixin.py:154} INFO - [2025-06-16T10:54:02.908-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T10:54:02.937-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T10:54:03.007-0300] {logging_mixin.py:154} INFO - [2025-06-16T10:54:03.007-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T10:54:03.049-0300] {logging_mixin.py:154} INFO - [2025-06-16T10:54:03.049-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T10:54:03.170-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.271 seconds
+[2025-06-16T10:54:34.524-0300] {processor.py:157} INFO - Started process (PID=43483) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T10:54:34.526-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T10:54:34.528-0300] {logging_mixin.py:154} INFO - [2025-06-16T10:54:34.527-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T10:54:34.556-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T10:54:34.607-0300] {logging_mixin.py:154} INFO - [2025-06-16T10:54:34.607-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T10:54:34.640-0300] {logging_mixin.py:154} INFO - [2025-06-16T10:54:34.639-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T10:54:34.755-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.235 seconds
+[2025-06-16T10:55:06.004-0300] {processor.py:157} INFO - Started process (PID=43575) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T10:55:06.006-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T10:55:06.008-0300] {logging_mixin.py:154} INFO - [2025-06-16T10:55:06.008-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T10:55:06.033-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T10:55:06.074-0300] {logging_mixin.py:154} INFO - [2025-06-16T10:55:06.074-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T10:55:06.106-0300] {logging_mixin.py:154} INFO - [2025-06-16T10:55:06.105-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T10:55:06.193-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.192 seconds
+[2025-06-16T10:55:37.058-0300] {processor.py:157} INFO - Started process (PID=43664) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T10:55:37.060-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T10:55:37.061-0300] {logging_mixin.py:154} INFO - [2025-06-16T10:55:37.061-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T10:55:37.088-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T10:55:37.128-0300] {logging_mixin.py:154} INFO - [2025-06-16T10:55:37.128-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T10:55:37.161-0300] {logging_mixin.py:154} INFO - [2025-06-16T10:55:37.161-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T10:55:37.249-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.195 seconds
+[2025-06-16T10:56:40.671-0300] {processor.py:157} INFO - Started process (PID=43846) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T10:56:40.673-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T10:56:40.675-0300] {logging_mixin.py:154} INFO - [2025-06-16T10:56:40.674-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T10:56:40.701-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T10:56:40.747-0300] {logging_mixin.py:154} INFO - [2025-06-16T10:56:40.746-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T10:56:40.779-0300] {logging_mixin.py:154} INFO - [2025-06-16T10:56:40.779-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T10:56:40.862-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.195 seconds
+[2025-06-16T10:57:15.491-0300] {processor.py:157} INFO - Started process (PID=43945) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T10:57:15.493-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T10:57:15.495-0300] {logging_mixin.py:154} INFO - [2025-06-16T10:57:15.494-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T10:57:15.524-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T10:57:15.567-0300] {logging_mixin.py:154} INFO - [2025-06-16T10:57:15.567-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T10:57:15.599-0300] {logging_mixin.py:154} INFO - [2025-06-16T10:57:15.598-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T10:57:15.682-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.195 seconds
+[2025-06-16T10:57:49.401-0300] {processor.py:157} INFO - Started process (PID=44038) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T10:57:49.403-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T10:57:49.405-0300] {logging_mixin.py:154} INFO - [2025-06-16T10:57:49.404-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T10:57:49.430-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T10:57:49.467-0300] {logging_mixin.py:154} INFO - [2025-06-16T10:57:49.466-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T10:57:49.495-0300] {logging_mixin.py:154} INFO - [2025-06-16T10:57:49.495-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T10:57:49.583-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.186 seconds
+[2025-06-16T10:58:26.378-0300] {processor.py:157} INFO - Started process (PID=44143) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T10:58:26.380-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T10:58:26.381-0300] {logging_mixin.py:154} INFO - [2025-06-16T10:58:26.381-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T10:58:26.422-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T10:58:26.470-0300] {logging_mixin.py:154} INFO - [2025-06-16T10:58:26.470-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T10:58:26.505-0300] {logging_mixin.py:154} INFO - [2025-06-16T10:58:26.505-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T10:58:26.609-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.236 seconds
+[2025-06-16T10:59:04.087-0300] {processor.py:157} INFO - Started process (PID=44369) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T10:59:04.089-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T10:59:04.090-0300] {logging_mixin.py:154} INFO - [2025-06-16T10:59:04.090-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T10:59:04.114-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T10:59:04.150-0300] {logging_mixin.py:154} INFO - [2025-06-16T10:59:04.150-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T10:59:04.177-0300] {logging_mixin.py:154} INFO - [2025-06-16T10:59:04.177-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T10:59:04.264-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.181 seconds
+[2025-06-16T10:59:38.500-0300] {processor.py:157} INFO - Started process (PID=44468) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T10:59:38.502-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T10:59:38.504-0300] {logging_mixin.py:154} INFO - [2025-06-16T10:59:38.503-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T10:59:38.533-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T10:59:38.581-0300] {logging_mixin.py:154} INFO - [2025-06-16T10:59:38.580-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T10:59:38.631-0300] {logging_mixin.py:154} INFO - [2025-06-16T10:59:38.630-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T10:59:38.729-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.234 seconds
+[2025-06-16T11:00:12.621-0300] {processor.py:157} INFO - Started process (PID=44565) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:00:12.623-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:00:12.625-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:00:12.624-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:00:12.653-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:00:12.691-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:00:12.691-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:00:12.723-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:00:12.723-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:00:12.814-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.197 seconds
+[2025-06-16T11:00:47.874-0300] {processor.py:157} INFO - Started process (PID=44663) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:00:47.876-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:00:47.877-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:00:47.877-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:00:47.907-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:00:47.950-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:00:47.949-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:00:47.978-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:00:47.978-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:00:48.077-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.207 seconds
+[2025-06-16T11:01:25.894-0300] {processor.py:157} INFO - Started process (PID=44779) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:01:25.897-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:01:25.899-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:01:25.898-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:01:25.926-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:01:25.966-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:01:25.965-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:01:25.995-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:01:25.995-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:01:26.084-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.193 seconds
+[2025-06-16T11:02:02.780-0300] {processor.py:157} INFO - Started process (PID=44885) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:02:02.781-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:02:02.783-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:02:02.783-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:02:02.811-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:02:02.850-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:02:02.850-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:02:02.878-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:02:02.878-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:02:02.991-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.215 seconds
+[2025-06-16T11:02:59.888-0300] {processor.py:157} INFO - Started process (PID=45048) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:02:59.891-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:02:59.892-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:02:59.892-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:02:59.922-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:02:59.977-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:02:59.977-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:03:00.049-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:03:00.048-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:03:00.148-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.263 seconds
+[2025-06-16T11:03:30.596-0300] {processor.py:157} INFO - Started process (PID=45137) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:03:30.598-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:03:30.600-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:03:30.600-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:03:30.625-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:03:30.666-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:03:30.666-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:03:30.700-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:03:30.700-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:03:30.794-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.202 seconds
+[2025-06-16T11:04:01.638-0300] {processor.py:157} INFO - Started process (PID=45231) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:04:01.640-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:04:01.642-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:04:01.642-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:04:01.671-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:04:01.710-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:04:01.710-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:04:01.740-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:04:01.740-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:04:01.833-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.198 seconds
+[2025-06-16T11:05:00.753-0300] {processor.py:157} INFO - Started process (PID=45410) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:05:00.755-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:05:00.756-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:05:00.756-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:05:00.784-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:05:00.821-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:05:00.820-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:05:00.847-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:05:00.847-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:05:00.939-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.190 seconds
+[2025-06-16T11:05:33.276-0300] {processor.py:157} INFO - Started process (PID=45501) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:05:33.278-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:05:33.280-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:05:33.279-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:05:33.321-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:05:33.383-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:05:33.383-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:05:33.424-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:05:33.424-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:05:33.518-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.249 seconds
+[2025-06-16T11:06:07.453-0300] {processor.py:157} INFO - Started process (PID=45720) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:06:07.455-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:06:07.456-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:06:07.456-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:06:07.483-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:06:07.522-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:06:07.521-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:06:07.553-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:06:07.553-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:06:07.642-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.193 seconds
+[2025-06-16T11:06:40.825-0300] {processor.py:157} INFO - Started process (PID=45818) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:06:40.827-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:06:40.830-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:06:40.829-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:06:40.857-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:06:40.896-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:06:40.895-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:06:40.926-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:06:40.926-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:06:41.019-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.197 seconds
+[2025-06-16T11:07:14.225-0300] {processor.py:157} INFO - Started process (PID=45913) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:07:14.227-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:07:14.229-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:07:14.228-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:07:14.262-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:07:14.306-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:07:14.306-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:07:14.342-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:07:14.342-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:07:14.443-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.223 seconds
+[2025-06-16T11:07:47.781-0300] {processor.py:157} INFO - Started process (PID=46013) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:07:47.783-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:07:47.784-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:07:47.784-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:07:47.809-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:07:47.846-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:07:47.846-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:07:47.874-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:07:47.874-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:07:47.954-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.177 seconds
+[2025-06-16T11:08:47.183-0300] {processor.py:157} INFO - Started process (PID=46189) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:08:47.185-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:08:47.186-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:08:47.186-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:08:47.212-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:08:47.254-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:08:47.254-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:08:47.286-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:08:47.285-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:08:47.373-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.194 seconds
+[2025-06-16T11:09:20.001-0300] {processor.py:157} INFO - Started process (PID=46279) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:09:20.003-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:09:20.004-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:09:20.004-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:09:20.034-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:09:20.076-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:09:20.076-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:09:20.107-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:09:20.107-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:09:20.196-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.199 seconds
+[2025-06-16T11:10:20.006-0300] {processor.py:157} INFO - Started process (PID=46456) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:10:20.007-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:10:20.009-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:10:20.008-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:10:20.037-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:10:20.077-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:10:20.077-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:10:20.108-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:10:20.108-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:10:20.203-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.201 seconds
+[2025-06-16T11:10:51.027-0300] {processor.py:157} INFO - Started process (PID=46543) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:10:51.029-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:10:51.031-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:10:51.030-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:10:51.058-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:10:51.101-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:10:51.101-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:10:51.129-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:10:51.129-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:10:51.212-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.189 seconds
+[2025-06-16T11:11:23.309-0300] {processor.py:157} INFO - Started process (PID=46640) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:11:23.311-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:11:23.312-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:11:23.312-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:11:23.338-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:11:23.378-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:11:23.378-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:11:23.406-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:11:23.406-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:11:23.493-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.188 seconds
+[2025-06-16T11:11:58.873-0300] {processor.py:157} INFO - Started process (PID=46742) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:11:58.875-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:11:58.877-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:11:58.876-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:11:58.903-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:11:58.943-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:11:58.943-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:11:58.972-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:11:58.972-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:11:59.068-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.199 seconds
+[2025-06-16T11:12:32.024-0300] {processor.py:157} INFO - Started process (PID=46839) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:12:32.026-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:12:32.028-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:12:32.027-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:12:32.056-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:12:32.101-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:12:32.101-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:12:32.134-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:12:32.134-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:12:32.222-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.202 seconds
+[2025-06-16T11:13:04.765-0300] {processor.py:157} INFO - Started process (PID=47048) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:13:04.767-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:13:04.768-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:13:04.768-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:13:04.792-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:13:04.832-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:13:04.832-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:13:04.861-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:13:04.861-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:13:04.948-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.186 seconds
+[2025-06-16T11:13:37.692-0300] {processor.py:157} INFO - Started process (PID=47145) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:13:37.693-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:13:37.694-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:13:37.694-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:13:37.719-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:13:37.760-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:13:37.760-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:13:37.789-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:13:37.789-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:13:37.877-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.189 seconds
+[2025-06-16T11:14:09.498-0300] {processor.py:157} INFO - Started process (PID=47241) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:14:09.499-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:14:09.501-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:14:09.500-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:14:09.525-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:14:09.564-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:14:09.564-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:14:09.594-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:14:09.593-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:14:09.684-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.190 seconds
+[2025-06-16T11:14:40.941-0300] {processor.py:157} INFO - Started process (PID=47329) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:14:40.942-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:14:40.944-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:14:40.943-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:14:40.972-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:14:41.012-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:14:41.012-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:14:41.041-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:14:41.041-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:14:41.127-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.190 seconds
+[2025-06-16T11:15:41.459-0300] {processor.py:157} INFO - Started process (PID=47507) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:15:41.461-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:15:41.462-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:15:41.462-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:15:41.486-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:15:41.525-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:15:41.525-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:15:41.560-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:15:41.560-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:15:41.651-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.195 seconds
+[2025-06-16T11:16:13.855-0300] {processor.py:157} INFO - Started process (PID=47601) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:16:13.857-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:16:13.859-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:16:13.858-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:16:13.886-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:16:13.924-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:16:13.924-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:16:13.957-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:16:13.956-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:16:14.049-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.197 seconds
+[2025-06-16T11:16:47.175-0300] {processor.py:157} INFO - Started process (PID=47698) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:16:47.177-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:16:47.179-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:16:47.178-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:16:47.205-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:16:47.246-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:16:47.246-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:16:47.280-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:16:47.280-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:16:47.369-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.198 seconds
+[2025-06-16T11:17:21.024-0300] {processor.py:157} INFO - Started process (PID=47798) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:17:21.025-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:17:21.027-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:17:21.027-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:17:21.054-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:17:21.095-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:17:21.095-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:17:21.124-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:17:21.124-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:17:21.210-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.190 seconds
+[2025-06-16T11:17:53.028-0300] {processor.py:157} INFO - Started process (PID=47896) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:17:53.029-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:17:53.031-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:17:53.030-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:17:53.057-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:17:53.101-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:17:53.100-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:17:53.133-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:17:53.133-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:17:53.226-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.202 seconds
+[2025-06-16T11:18:25.225-0300] {processor.py:157} INFO - Started process (PID=47983) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:18:25.227-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:18:25.229-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:18:25.228-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:18:25.256-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:18:25.294-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:18:25.293-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:18:25.325-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:18:25.325-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:18:25.416-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.194 seconds
+[2025-06-16T11:18:57.645-0300] {processor.py:157} INFO - Started process (PID=48080) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:18:57.648-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:18:57.649-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:18:57.649-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:18:57.676-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:18:57.716-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:18:57.716-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:18:57.745-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:18:57.745-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:18:57.835-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.193 seconds
+[2025-06-16T11:19:30.057-0300] {processor.py:157} INFO - Started process (PID=48176) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:19:30.059-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:19:30.060-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:19:30.060-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:19:30.087-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:19:30.128-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:19:30.127-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:19:30.159-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:19:30.159-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:19:30.248-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.195 seconds
+[2025-06-16T11:20:01.084-0300] {processor.py:157} INFO - Started process (PID=48267) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:20:01.086-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:20:01.088-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:20:01.087-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:20:01.113-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:20:01.154-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:20:01.153-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:20:01.187-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:20:01.187-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:20:01.276-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.196 seconds
+[2025-06-16T11:20:57.529-0300] {processor.py:157} INFO - Started process (PID=48558) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:20:57.531-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:20:57.532-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:20:57.532-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:20:57.556-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:20:57.597-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:20:57.596-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:20:57.628-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:20:57.627-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:20:57.712-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.187 seconds
+[2025-06-16T11:21:32.318-0300] {processor.py:157} INFO - Started process (PID=48657) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:21:32.320-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:21:32.322-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:21:32.321-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:21:32.349-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:21:32.388-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:21:32.388-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:21:32.422-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:21:32.422-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:21:32.516-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.201 seconds
+[2025-06-16T11:22:08.407-0300] {processor.py:157} INFO - Started process (PID=48763) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:22:08.409-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:22:08.411-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:22:08.410-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:22:08.437-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:22:08.474-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:22:08.474-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:22:08.504-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:22:08.504-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:22:08.598-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.196 seconds
+[2025-06-16T11:23:07.223-0300] {processor.py:157} INFO - Started process (PID=48933) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:23:07.225-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:23:07.226-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:23:07.226-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:23:07.251-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:23:07.292-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:23:07.292-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:23:07.320-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:23:07.320-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:23:07.408-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.189 seconds
+[2025-06-16T11:24:06.027-0300] {processor.py:157} INFO - Started process (PID=49106) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:24:06.030-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:24:06.032-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:24:06.031-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:24:06.059-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:24:06.097-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:24:06.097-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:24:06.128-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:24:06.128-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:24:06.222-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.199 seconds
+[2025-06-16T11:24:38.452-0300] {processor.py:157} INFO - Started process (PID=49202) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:24:38.454-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:24:38.456-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:24:38.455-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:24:38.484-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:24:38.522-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:24:38.521-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:24:38.550-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:24:38.549-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:24:38.641-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.193 seconds
+[2025-06-16T11:25:09.664-0300] {processor.py:157} INFO - Started process (PID=49290) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:25:09.666-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:25:09.667-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:25:09.667-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:25:09.693-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:25:09.736-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:25:09.736-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:25:09.771-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:25:09.771-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:25:09.861-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.201 seconds
+[2025-06-16T11:25:40.985-0300] {processor.py:157} INFO - Started process (PID=49386) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:25:40.987-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:25:40.990-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:25:40.989-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:25:41.017-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:25:41.057-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:25:41.056-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:25:41.087-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:25:41.087-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:25:41.175-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.193 seconds
+[2025-06-16T11:26:12.031-0300] {processor.py:157} INFO - Started process (PID=49473) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:26:12.033-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:26:12.034-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:26:12.034-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:26:12.062-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:26:12.102-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:26:12.102-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:26:12.138-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:26:12.137-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:26:12.225-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.197 seconds
+[2025-06-16T11:26:44.912-0300] {processor.py:157} INFO - Started process (PID=49569) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:26:44.914-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:26:44.916-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:26:44.916-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:26:44.942-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:26:44.983-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:26:44.982-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:26:45.015-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:26:45.015-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:26:45.112-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.204 seconds
+[2025-06-16T11:27:17.651-0300] {processor.py:157} INFO - Started process (PID=49663) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:27:17.653-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:27:17.655-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:27:17.655-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:27:17.681-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:27:17.720-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:27:17.720-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:27:17.750-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:27:17.750-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:27:17.839-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.191 seconds
+[2025-06-16T11:27:51.239-0300] {processor.py:157} INFO - Started process (PID=49888) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:27:51.240-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:27:51.242-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:27:51.241-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:27:51.269-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:27:51.306-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:27:51.306-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:27:51.338-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:27:51.338-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:27:51.419-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.184 seconds
+[2025-06-16T11:28:23.344-0300] {processor.py:157} INFO - Started process (PID=49978) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:28:23.346-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:28:23.348-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:28:23.347-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:28:23.375-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:28:23.417-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:28:23.416-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:28:23.451-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:28:23.451-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:28:23.546-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.205 seconds
+[2025-06-16T11:28:57.091-0300] {processor.py:157} INFO - Started process (PID=50079) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:28:57.093-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:28:57.095-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:28:57.094-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:28:57.121-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:28:57.161-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:28:57.160-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:28:57.189-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:28:57.189-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:28:57.275-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.187 seconds
+[2025-06-16T11:29:31.177-0300] {processor.py:157} INFO - Started process (PID=50179) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:29:31.178-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:29:31.180-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:29:31.179-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:29:31.210-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:29:31.250-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:29:31.250-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:29:31.277-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:29:31.276-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:29:31.365-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.193 seconds
+[2025-06-16T11:30:02.440-0300] {processor.py:157} INFO - Started process (PID=50273) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:30:02.441-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:30:02.443-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:30:02.442-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:30:02.469-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:30:02.505-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:30:02.504-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:30:02.544-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:30:02.544-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:30:02.631-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.196 seconds
+[2025-06-16T11:30:33.208-0300] {processor.py:157} INFO - Started process (PID=50361) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:30:33.210-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:30:33.212-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:30:33.211-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:30:33.242-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:30:33.282-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:30:33.282-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:30:33.314-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:30:33.314-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:30:33.405-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.201 seconds
+[2025-06-16T11:31:06.763-0300] {processor.py:157} INFO - Started process (PID=50456) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:31:06.765-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:31:06.767-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:31:06.766-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:31:06.796-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:31:06.845-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:31:06.844-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:31:06.880-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:31:06.880-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:31:06.975-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.216 seconds
+[2025-06-16T11:31:42.356-0300] {processor.py:157} INFO - Started process (PID=50560) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:31:42.358-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:31:42.360-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:31:42.359-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:31:42.386-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:31:42.430-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:31:42.430-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:31:42.461-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:31:42.461-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:31:42.554-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.203 seconds
+[2025-06-16T11:32:18.705-0300] {processor.py:157} INFO - Started process (PID=50667) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:32:18.707-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:32:18.708-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:32:18.708-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:32:18.736-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:32:18.779-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:32:18.779-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:32:18.813-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:32:18.813-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:32:18.903-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.202 seconds
+[2025-06-16T11:32:52.584-0300] {processor.py:157} INFO - Started process (PID=50766) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:32:52.585-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:32:52.587-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:32:52.586-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:32:52.613-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:32:52.648-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:32:52.648-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:32:52.680-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:32:52.680-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:32:52.764-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.185 seconds
+[2025-06-16T11:33:23.394-0300] {processor.py:157} INFO - Started process (PID=50859) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:33:23.396-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:33:23.397-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:33:23.397-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:33:23.423-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:33:23.463-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:33:23.463-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:33:23.495-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:33:23.494-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:33:23.581-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.191 seconds
+[2025-06-16T11:33:55.155-0300] {processor.py:157} INFO - Started process (PID=50949) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:33:55.157-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:33:55.159-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:33:55.158-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:33:55.186-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:33:55.228-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:33:55.228-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:33:55.256-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:33:55.256-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:33:55.348-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.196 seconds
+[2025-06-16T11:34:26.636-0300] {processor.py:157} INFO - Started process (PID=51046) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:34:26.638-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:34:26.639-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:34:26.639-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:34:26.669-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:34:26.708-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:34:26.708-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:34:26.736-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:34:26.736-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:34:26.827-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.195 seconds
+[2025-06-16T11:35:26.573-0300] {processor.py:157} INFO - Started process (PID=51345) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:35:26.575-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:35:26.577-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:35:26.577-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:35:26.603-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:35:26.640-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:35:26.640-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:35:26.669-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:35:26.669-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:35:26.756-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.187 seconds
+[2025-06-16T11:36:28.904-0300] {processor.py:157} INFO - Started process (PID=51531) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:36:28.906-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:36:28.908-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:36:28.907-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:36:28.939-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:36:28.983-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:36:28.982-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:36:29.017-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:36:29.016-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:36:29.106-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.207 seconds
+[2025-06-16T11:37:03.224-0300] {processor.py:157} INFO - Started process (PID=51636) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:37:03.225-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:37:03.227-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:37:03.226-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:37:03.254-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:37:03.292-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:37:03.291-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:37:03.320-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:37:03.320-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:37:03.407-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.187 seconds
+[2025-06-16T11:37:35.677-0300] {processor.py:157} INFO - Started process (PID=51729) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:37:35.679-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:37:35.680-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:37:35.680-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:37:35.707-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:37:35.746-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:37:35.745-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:37:35.779-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:37:35.779-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:37:35.873-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.200 seconds
+[2025-06-16T11:38:09.900-0300] {processor.py:157} INFO - Started process (PID=51833) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:38:09.902-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:38:09.904-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:38:09.904-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:38:09.931-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:38:09.972-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:38:09.972-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:38:10.005-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:38:10.005-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:38:10.096-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.200 seconds
+[2025-06-16T11:38:43.741-0300] {processor.py:157} INFO - Started process (PID=51926) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:38:43.743-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:38:43.745-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:38:43.744-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:38:43.773-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:38:43.819-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:38:43.818-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:38:43.850-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:38:43.850-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:38:43.942-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.205 seconds
+[2025-06-16T11:39:18.760-0300] {processor.py:157} INFO - Started process (PID=52030) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:39:18.762-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:39:18.764-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:39:18.763-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:39:18.788-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:39:18.833-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:39:18.833-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:39:18.865-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:39:18.864-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:39:18.957-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.201 seconds
+[2025-06-16T11:39:53.724-0300] {processor.py:157} INFO - Started process (PID=52131) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:39:53.726-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:39:53.728-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:39:53.728-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:39:53.754-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:39:53.793-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:39:53.793-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:39:53.824-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:39:53.824-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:39:53.913-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.194 seconds
+[2025-06-16T11:40:27.282-0300] {processor.py:157} INFO - Started process (PID=52230) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:40:27.284-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:40:27.286-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:40:27.286-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:40:27.313-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:40:27.350-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:40:27.350-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:40:27.379-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:40:27.379-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:40:27.465-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.187 seconds
+[2025-06-16T11:40:58.660-0300] {processor.py:157} INFO - Started process (PID=52326) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:40:58.661-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:40:58.663-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:40:58.662-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:40:58.692-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:40:58.731-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:40:58.731-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:40:58.759-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:40:58.759-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:40:58.843-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.187 seconds
+[2025-06-16T11:42:01.571-0300] {processor.py:157} INFO - Started process (PID=52629) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:42:01.573-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:42:01.576-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:42:01.575-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:42:01.605-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:42:01.647-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:42:01.647-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:42:01.678-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:42:01.678-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:42:01.882-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.316 seconds
+[2025-06-16T11:42:37.588-0300] {processor.py:157} INFO - Started process (PID=52739) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:42:37.590-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:42:37.591-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:42:37.591-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:42:37.618-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:42:37.655-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:42:37.654-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:42:37.684-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:42:37.684-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:42:37.775-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.190 seconds
+[2025-06-16T11:43:13.525-0300] {processor.py:157} INFO - Started process (PID=52842) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:43:13.526-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:43:13.528-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:43:13.528-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:43:13.555-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:43:13.594-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:43:13.594-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:43:13.623-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:43:13.622-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:43:13.712-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.192 seconds
+[2025-06-16T11:43:46.443-0300] {processor.py:157} INFO - Started process (PID=52938) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:43:46.445-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:43:46.446-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:43:46.446-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:43:46.471-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:43:46.509-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:43:46.509-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:43:46.538-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:43:46.538-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:43:46.748-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.309 seconds
+[2025-06-16T11:44:21.359-0300] {processor.py:157} INFO - Started process (PID=53040) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:44:21.361-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:44:21.363-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:44:21.362-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:44:21.390-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:44:21.428-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:44:21.428-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:44:21.599-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:44:21.598-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:44:21.680-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.325 seconds
+[2025-06-16T11:44:57.193-0300] {processor.py:157} INFO - Started process (PID=53145) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:44:57.196-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:44:57.198-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:44:57.198-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:44:57.229-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:44:57.275-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:44:57.275-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:44:57.308-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:44:57.308-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:44:57.398-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.210 seconds
+[2025-06-16T11:45:28.871-0300] {processor.py:157} INFO - Started process (PID=53240) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:45:28.873-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:45:28.875-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:45:28.874-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:45:28.901-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:45:28.941-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:45:28.941-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:45:28.971-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:45:28.971-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:45:29.056-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.188 seconds
+[2025-06-16T11:46:00.051-0300] {processor.py:157} INFO - Started process (PID=53334) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:46:00.053-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:46:00.055-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:46:00.054-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:46:00.081-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:46:00.120-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:46:00.120-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:46:00.275-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:46:00.274-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:46:00.358-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.311 seconds
+[2025-06-16T11:46:35.048-0300] {processor.py:157} INFO - Started process (PID=53435) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:46:35.050-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:46:35.051-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:46:35.051-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:46:35.079-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:46:35.123-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:46:35.123-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:46:35.157-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:46:35.156-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:46:35.244-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.200 seconds
+[2025-06-16T11:47:09.555-0300] {processor.py:157} INFO - Started process (PID=53541) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:47:09.557-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:47:09.559-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:47:09.558-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:47:09.586-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:47:09.622-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:47:09.622-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:47:09.655-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:47:09.655-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:47:09.741-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.190 seconds
+[2025-06-16T11:47:40.891-0300] {processor.py:157} INFO - Started process (PID=53631) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:47:40.892-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:47:40.894-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:47:40.893-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:47:40.919-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:47:40.964-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:47:40.964-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:47:40.999-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:47:40.999-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:47:41.086-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.200 seconds
+[2025-06-16T11:48:12.934-0300] {processor.py:157} INFO - Started process (PID=53731) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:48:12.936-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:48:12.938-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:48:12.937-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:48:12.965-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:48:13.013-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:48:13.013-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:48:13.046-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:48:13.046-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:48:13.139-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.210 seconds
+[2025-06-16T11:48:43.674-0300] {processor.py:157} INFO - Started process (PID=53818) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:48:43.676-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:48:43.677-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:48:43.677-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:48:43.702-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:48:43.746-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:48:43.746-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:48:43.779-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:48:43.779-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:48:43.877-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.208 seconds
+[2025-06-16T11:49:14.970-0300] {processor.py:157} INFO - Started process (PID=54035) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:49:14.973-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:49:14.975-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:49:14.974-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:49:15.003-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:49:15.048-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:49:15.047-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:49:15.080-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:49:15.080-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:49:15.164-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.200 seconds
+[2025-06-16T11:49:46.349-0300] {processor.py:157} INFO - Started process (PID=54129) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:49:46.351-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:49:46.353-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:49:46.352-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:49:46.380-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:49:46.418-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:49:46.418-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:49:46.446-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:49:46.446-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:49:46.528-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.183 seconds
+[2025-06-16T11:50:18.083-0300] {processor.py:157} INFO - Started process (PID=54226) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:50:18.084-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:50:18.086-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:50:18.085-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:50:18.115-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:50:18.156-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:50:18.156-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:50:18.186-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:50:18.186-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:50:18.276-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.197 seconds
+[2025-06-16T11:51:17.402-0300] {processor.py:157} INFO - Started process (PID=54399) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:51:17.404-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:51:17.406-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:51:17.405-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:51:17.433-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:51:17.472-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:51:17.472-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:51:17.502-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:51:17.501-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:51:17.600-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.202 seconds
+[2025-06-16T11:51:50.304-0300] {processor.py:157} INFO - Started process (PID=54496) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:51:50.306-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:51:50.308-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:51:50.308-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:51:50.339-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:51:50.381-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:51:50.381-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:51:50.414-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:51:50.414-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:51:50.510-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.211 seconds
+[2025-06-16T11:52:24.478-0300] {processor.py:157} INFO - Started process (PID=54598) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:52:24.480-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:52:24.481-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:52:24.481-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:52:24.508-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:52:24.547-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:52:24.547-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:52:24.577-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:52:24.576-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:52:24.667-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.193 seconds
+[2025-06-16T11:52:57.110-0300] {processor.py:157} INFO - Started process (PID=54693) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:52:57.112-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:52:57.114-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:52:57.114-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:52:57.142-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:52:57.181-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:52:57.181-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:52:57.212-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:52:57.212-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:52:57.305-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.199 seconds
+[2025-06-16T11:53:29.795-0300] {processor.py:157} INFO - Started process (PID=54795) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:53:29.797-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:53:29.798-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:53:29.797-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:53:29.822-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:53:29.862-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:53:29.862-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:53:29.894-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:53:29.893-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:53:29.979-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.188 seconds
+[2025-06-16T11:54:00.349-0300] {processor.py:157} INFO - Started process (PID=54884) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:54:00.350-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:54:00.352-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:54:00.352-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:54:00.377-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:54:00.417-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:54:00.416-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:54:00.446-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:54:00.445-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:54:00.536-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.191 seconds
+[2025-06-16T11:54:31.841-0300] {processor.py:157} INFO - Started process (PID=54977) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:54:31.843-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:54:31.845-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:54:31.845-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:54:31.872-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:54:31.915-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:54:31.914-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:54:31.951-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:54:31.951-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:54:32.041-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.205 seconds
+[2025-06-16T11:55:03.115-0300] {processor.py:157} INFO - Started process (PID=55074) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:55:03.117-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:55:03.118-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:55:03.117-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:55:03.145-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:55:03.187-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:55:03.187-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:55:03.218-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:55:03.218-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:55:03.304-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.193 seconds
+[2025-06-16T11:56:03.067-0300] {processor.py:157} INFO - Started process (PID=55377) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:56:03.068-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:56:03.070-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:56:03.070-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:56:03.094-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:56:03.134-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:56:03.133-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:56:03.164-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:56:03.163-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:56:03.246-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.184 seconds
+[2025-06-16T11:56:35.429-0300] {processor.py:157} INFO - Started process (PID=55472) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:56:35.430-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:56:35.432-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:56:35.432-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:56:35.455-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:56:35.502-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:56:35.502-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:56:35.536-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:56:35.535-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:56:35.624-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.200 seconds
+[2025-06-16T11:57:09.409-0300] {processor.py:157} INFO - Started process (PID=55573) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:57:09.410-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:57:09.412-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:57:09.411-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:57:09.437-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:57:09.477-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:57:09.477-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:57:09.506-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:57:09.506-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:57:09.593-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.190 seconds
+[2025-06-16T11:57:40.901-0300] {processor.py:157} INFO - Started process (PID=55665) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:57:40.903-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:57:40.905-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:57:40.904-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:57:40.934-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:57:40.977-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:57:40.976-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:57:41.011-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:57:41.010-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:57:41.097-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.202 seconds
+[2025-06-16T11:58:12.477-0300] {processor.py:157} INFO - Started process (PID=55759) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:58:12.478-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:58:12.481-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:58:12.480-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:58:12.507-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:58:12.554-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:58:12.553-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:58:12.589-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:58:12.589-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:58:12.676-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.204 seconds
+[2025-06-16T11:58:45.088-0300] {processor.py:157} INFO - Started process (PID=55861) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:58:45.090-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:58:45.092-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:58:45.091-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:58:45.119-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:58:45.159-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:58:45.158-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:58:45.189-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:58:45.189-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:58:45.279-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.197 seconds
+[2025-06-16T11:59:16.285-0300] {processor.py:157} INFO - Started process (PID=55955) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:59:16.288-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:59:16.289-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:59:16.289-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:59:16.315-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:59:16.355-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:59:16.354-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:59:16.385-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:59:16.384-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:59:16.480-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.199 seconds
+[2025-06-16T11:59:47.691-0300] {processor.py:157} INFO - Started process (PID=56044) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:59:47.693-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T11:59:47.695-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:59:47.694-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:59:47.720-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T11:59:47.760-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:59:47.760-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T11:59:47.788-0300] {logging_mixin.py:154} INFO - [2025-06-16T11:59:47.788-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T11:59:47.879-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.191 seconds
+[2025-06-16T12:00:20.187-0300] {processor.py:157} INFO - Started process (PID=56147) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T12:00:20.189-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T12:00:20.190-0300] {logging_mixin.py:154} INFO - [2025-06-16T12:00:20.190-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T12:00:20.216-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T12:00:20.252-0300] {logging_mixin.py:154} INFO - [2025-06-16T12:00:20.252-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T12:00:20.283-0300] {logging_mixin.py:154} INFO - [2025-06-16T12:00:20.283-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T12:00:20.373-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.189 seconds
+[2025-06-16T12:00:52.452-0300] {processor.py:157} INFO - Started process (PID=56242) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T12:00:52.455-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T12:00:52.457-0300] {logging_mixin.py:154} INFO - [2025-06-16T12:00:52.457-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T12:00:52.484-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T12:00:52.529-0300] {logging_mixin.py:154} INFO - [2025-06-16T12:00:52.529-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T12:00:52.560-0300] {logging_mixin.py:154} INFO - [2025-06-16T12:00:52.560-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T12:00:52.651-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.204 seconds
+[2025-06-16T12:01:26.565-0300] {processor.py:157} INFO - Started process (PID=56344) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T12:01:26.566-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T12:01:26.568-0300] {logging_mixin.py:154} INFO - [2025-06-16T12:01:26.568-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T12:01:26.599-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T12:01:26.639-0300] {logging_mixin.py:154} INFO - [2025-06-16T12:01:26.639-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T12:01:26.670-0300] {logging_mixin.py:154} INFO - [2025-06-16T12:01:26.670-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T12:01:26.762-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.201 seconds
+[2025-06-16T12:02:01.731-0300] {processor.py:157} INFO - Started process (PID=56445) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T12:02:01.733-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T12:02:01.734-0300] {logging_mixin.py:154} INFO - [2025-06-16T12:02:01.734-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T12:02:01.761-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T12:02:01.801-0300] {logging_mixin.py:154} INFO - [2025-06-16T12:02:01.801-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T12:02:01.829-0300] {logging_mixin.py:154} INFO - [2025-06-16T12:02:01.829-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T12:02:01.922-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.195 seconds
+[2025-06-16T12:02:34.406-0300] {processor.py:157} INFO - Started process (PID=56541) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T12:02:34.407-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T12:02:34.409-0300] {logging_mixin.py:154} INFO - [2025-06-16T12:02:34.409-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T12:02:34.437-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T12:02:34.478-0300] {logging_mixin.py:154} INFO - [2025-06-16T12:02:34.478-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T12:02:34.508-0300] {logging_mixin.py:154} INFO - [2025-06-16T12:02:34.507-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T12:02:34.598-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.196 seconds
+[2025-06-16T12:03:07.485-0300] {processor.py:157} INFO - Started process (PID=56643) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T12:03:07.487-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T12:03:07.489-0300] {logging_mixin.py:154} INFO - [2025-06-16T12:03:07.488-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T12:03:07.516-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T12:03:07.559-0300] {logging_mixin.py:154} INFO - [2025-06-16T12:03:07.559-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T12:03:07.595-0300] {logging_mixin.py:154} INFO - [2025-06-16T12:03:07.595-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T12:03:07.693-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.211 seconds
+[2025-06-16T12:03:40.546-0300] {processor.py:157} INFO - Started process (PID=56862) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T12:03:40.548-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T12:03:40.550-0300] {logging_mixin.py:154} INFO - [2025-06-16T12:03:40.549-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T12:03:40.577-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T12:03:40.613-0300] {logging_mixin.py:154} INFO - [2025-06-16T12:03:40.613-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T12:03:40.641-0300] {logging_mixin.py:154} INFO - [2025-06-16T12:03:40.641-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T12:03:40.730-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.188 seconds
+[2025-06-16T12:04:13.398-0300] {processor.py:157} INFO - Started process (PID=56963) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T12:04:13.400-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T12:04:13.402-0300] {logging_mixin.py:154} INFO - [2025-06-16T12:04:13.402-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T12:04:13.427-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T12:04:13.465-0300] {logging_mixin.py:154} INFO - [2025-06-16T12:04:13.464-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T12:04:13.496-0300] {logging_mixin.py:154} INFO - [2025-06-16T12:04:13.496-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T12:04:13.586-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.193 seconds
+[2025-06-16T12:04:44.524-0300] {processor.py:157} INFO - Started process (PID=57059) to work on /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T12:04:44.526-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/teste.py for tasks to queue
+[2025-06-16T12:04:44.527-0300] {logging_mixin.py:154} INFO - [2025-06-16T12:04:44.526-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T12:04:44.553-0300] {processor.py:839} INFO - DAG(s) dict_keys(['testando_spark_submit']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/teste.py
+[2025-06-16T12:04:44.592-0300] {logging_mixin.py:154} INFO - [2025-06-16T12:04:44.592-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-16T12:04:44.620-0300] {logging_mixin.py:154} INFO - [2025-06-16T12:04:44.620-0300] {dag.py:3722} INFO - Setting next_dagrun for testando_spark_submit to 2025-06-16T13:47:31.257026+00:00, run_after=2025-06-17T13:47:31.257026+00:00
+[2025-06-16T12:04:44.709-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/teste.py took 0.189 seconds

@@ -1,0 +1,42 @@
+[2025-06-12 11:08:35,565] {processor.py:153} INFO - Started process (PID=2008) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/example_kubernetes_executor.py
+[2025-06-12 11:08:35,566] {processor.py:641} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2025-06-12 11:08:35,568] {logging_mixin.py:115} INFO - [2025-06-12 11:08:35,568] {dagbag.py:507} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/example_kubernetes_executor.py
+[2025-06-12 11:08:35,613] {logging_mixin.py:115} INFO - [2025-06-12 11:08:35,613] {example_kubernetes_executor.py:39} WARNING - The example_kubernetes_executor example DAG requires the kubernetes provider. Please install it with: pip install apache-airflow[cncf.kubernetes]
+[2025-06-12 11:08:35,614] {processor.py:653} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/example_kubernetes_executor.py
+[2025-06-12 11:08:35,659] {processor.py:161} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/example_kubernetes_executor.py took 0.100 seconds
+[2025-06-12 11:09:22,472] {processor.py:153} INFO - Started process (PID=2042) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/example_kubernetes_executor.py
+[2025-06-12 11:09:22,473] {processor.py:641} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2025-06-12 11:09:22,474] {logging_mixin.py:115} INFO - [2025-06-12 11:09:22,474] {dagbag.py:507} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/example_kubernetes_executor.py
+[2025-06-12 11:09:22,498] {logging_mixin.py:115} INFO - [2025-06-12 11:09:22,497] {example_kubernetes_executor.py:39} WARNING - The example_kubernetes_executor example DAG requires the kubernetes provider. Please install it with: pip install apache-airflow[cncf.kubernetes]
+[2025-06-12 11:09:22,499] {processor.py:653} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/example_kubernetes_executor.py
+[2025-06-12 11:09:22,535] {processor.py:161} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/example_kubernetes_executor.py took 0.068 seconds
+[2025-06-12 13:37:56,576] {processor.py:153} INFO - Started process (PID=19888) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/example_kubernetes_executor.py
+[2025-06-12 13:37:56,579] {processor.py:641} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2025-06-12 13:37:56,591] {logging_mixin.py:115} INFO - [2025-06-12 13:37:56,591] {dagbag.py:507} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/example_kubernetes_executor.py
+[2025-06-12 13:37:56,679] {logging_mixin.py:115} INFO - [2025-06-12 13:37:56,678] {example_kubernetes_executor.py:39} WARNING - The example_kubernetes_executor example DAG requires the kubernetes provider. Please install it with: pip install apache-airflow[cncf.kubernetes]
+[2025-06-12 13:37:56,681] {processor.py:653} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/example_kubernetes_executor.py
+[2025-06-12 13:37:56,765] {processor.py:161} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/example_kubernetes_executor.py took 0.204 seconds
+[2025-06-12 13:39:23,697] {processor.py:153} INFO - Started process (PID=20115) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/example_kubernetes_executor.py
+[2025-06-12 13:39:23,699] {processor.py:641} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2025-06-12 13:39:23,701] {logging_mixin.py:115} INFO - [2025-06-12 13:39:23,701] {dagbag.py:507} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/example_kubernetes_executor.py
+[2025-06-12 13:39:23,741] {logging_mixin.py:115} INFO - [2025-06-12 13:39:23,741] {example_kubernetes_executor.py:39} WARNING - The example_kubernetes_executor example DAG requires the kubernetes provider. Please install it with: pip install apache-airflow[cncf.kubernetes]
+[2025-06-12 13:39:23,742] {processor.py:653} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/example_kubernetes_executor.py
+[2025-06-12 13:39:23,795] {processor.py:161} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/example_kubernetes_executor.py took 0.108 seconds
+[2025-06-12 13:40:11,690] {processor.py:153} INFO - Started process (PID=20242) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/example_kubernetes_executor.py
+[2025-06-12 13:40:11,692] {processor.py:641} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2025-06-12 13:40:11,694] {logging_mixin.py:115} INFO - [2025-06-12 13:40:11,693] {dagbag.py:507} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/example_kubernetes_executor.py
+[2025-06-12 13:40:11,728] {logging_mixin.py:115} INFO - [2025-06-12 13:40:11,728] {example_kubernetes_executor.py:39} WARNING - The example_kubernetes_executor example DAG requires the kubernetes provider. Please install it with: pip install apache-airflow[cncf.kubernetes]
+[2025-06-12 13:40:11,729] {processor.py:653} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/example_kubernetes_executor.py
+[2025-06-12 13:40:11,779] {processor.py:161} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/example_kubernetes_executor.py took 0.095 seconds
+[2025-06-12 13:41:46,018] {processor.py:153} INFO - Started process (PID=20455) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/example_kubernetes_executor.py
+[2025-06-12 13:41:46,020] {processor.py:641} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2025-06-12 13:41:46,023] {logging_mixin.py:115} INFO - [2025-06-12 13:41:46,023] {dagbag.py:507} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/example_kubernetes_executor.py
+[2025-06-12 13:41:46,068] {logging_mixin.py:115} INFO - [2025-06-12 13:41:46,068] {example_kubernetes_executor.py:39} WARNING - The example_kubernetes_executor example DAG requires the kubernetes provider. Please install it with: pip install apache-airflow[cncf.kubernetes]
+[2025-06-12 13:41:46,069] {processor.py:653} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/example_kubernetes_executor.py
+[2025-06-12 13:41:46,134] {processor.py:161} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/example_kubernetes_executor.py took 0.125 seconds
+[2025-06-12 13:43:15,896] {processor.py:153} INFO - Started process (PID=20796) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/example_kubernetes_executor.py
+[2025-06-12 13:43:15,898] {processor.py:641} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2025-06-12 13:43:15,900] {logging_mixin.py:115} INFO - [2025-06-12 13:43:15,900] {dagbag.py:507} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/example_kubernetes_executor.py
+[2025-06-12 13:43:15,952] {logging_mixin.py:115} INFO - [2025-06-12 13:43:15,952] {example_kubernetes_executor.py:39} WARNING - The example_kubernetes_executor example DAG requires the kubernetes provider. Please install it with: pip install apache-airflow[cncf.kubernetes]
+[2025-06-12 13:43:15,954] {processor.py:653} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/example_kubernetes_executor.py
+[2025-06-12 13:43:16,013] {processor.py:161} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/example_kubernetes_executor.py took 0.127 seconds

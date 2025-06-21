@@ -1,0 +1,32 @@
+[2025-06-19T11:16:08.203-0300] {logging_mixin.py:154} INFO - Changing /mnt/c/Users/arcan/Documents/airflow/logs/dag_id=testando_spark_submit/run_id=scheduled__2025-06-18T14:15:39.580122+00:00/task_id=run_bronze_script permission to 509
+[2025-06-19T11:16:08.416-0300] {logging_mixin.py:154} INFO - Changing /mnt/c/Users/arcan/Documents/airflow/logs/dag_id=testando_spark_submit/run_id=scheduled__2025-06-18T14:15:39.580122+00:00/task_id=run_bronze_script permission to 509
+[2025-06-19T11:16:08.595-0300] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: testando_spark_submit.run_bronze_script scheduled__2025-06-18T14:15:39.580122+00:00 [queued]>
+[2025-06-19T11:16:08.613-0300] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: testando_spark_submit.run_bronze_script scheduled__2025-06-18T14:15:39.580122+00:00 [queued]>
+[2025-06-19T11:16:08.614-0300] {taskinstance.py:1361} INFO - Starting attempt 1 of 2
+[2025-06-19T11:16:08.652-0300] {taskinstance.py:1382} INFO - Executing <Task(BashOperator): run_bronze_script> on 2025-06-18 14:15:39.580122+00:00
+[2025-06-19T11:16:08.656-0300] {standard_task_runner.py:57} INFO - Started process 3035 to run task
+[2025-06-19T11:16:08.662-0300] {standard_task_runner.py:84} INFO - Running: ['airflow', 'tasks', 'run', 'testando_spark_submit', 'run_bronze_script', 'scheduled__2025-06-18T14:15:39.580122+00:00', '--job-id', '28', '--raw', '--subdir', 'DAGS_FOLDER/teste.py', '--cfg-path', '/tmp/tmpxe565vvx']
+[2025-06-19T11:16:08.664-0300] {standard_task_runner.py:85} INFO - Job 28: Subtask run_bronze_script
+[2025-06-19T11:16:08.761-0300] {logging_mixin.py:154} INFO - Changing /mnt/c/Users/arcan/Documents/airflow/logs/dag_id=testando_spark_submit/run_id=scheduled__2025-06-18T14:15:39.580122+00:00/task_id=run_bronze_script permission to 509
+[2025-06-19T11:16:08.781-0300] {task_command.py:416} INFO - Running <TaskInstance: testando_spark_submit.run_bronze_script scheduled__2025-06-18T14:15:39.580122+00:00 [running]> on host YanArcanjo.localdomain
+[2025-06-19T11:16:08.935-0300] {taskinstance.py:1662} INFO - Exporting env vars: AIRFLOW_CTX_DAG_EMAIL='seu_email@exemplo.com' AIRFLOW_CTX_DAG_OWNER='seu_nome' AIRFLOW_CTX_DAG_ID='testando_spark_submit' AIRFLOW_CTX_TASK_ID='run_bronze_script' AIRFLOW_CTX_EXECUTION_DATE='2025-06-18T14:15:39.580122+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2025-06-18T14:15:39.580122+00:00'
+[2025-06-19T11:16:08.937-0300] {subprocess.py:63} INFO - Tmp dir root location: /tmp
+[2025-06-19T11:16:08.939-0300] {subprocess.py:75} INFO - Running command: ['/usr/bin/bash', '-c', 'spark-submit --packages io.delta:delta-core_2.12:2.4.0             --master local[*]             --conf "spark.sql.extensions=io.delta.sql.DeltaSparkSessionExtension"             --conf "spark.sql.catalog.spark_catalog=org.apache.spark.sql.delta.catalog.DeltaCatalog"             --conf "spark.driver.extraJavaOptions=-Dlog4j.configurationFile=src/jobs/log4j2.properties"             /mnt/c/Users/arcan/Documents/airflow/src/jobs/meuscript.py tabela_airflow']
+[2025-06-19T11:16:08.947-0300] {subprocess.py:86} INFO - Output:
+[2025-06-19T11:16:27.117-0300] {process_utils.py:131} INFO - Sending Signals.SIGTERM to group 3035. PIDs of all processes in the group: [3036, 3035]
+[2025-06-19T11:16:27.118-0300] {process_utils.py:86} INFO - Sending the signal Signals.SIGTERM to group 3035
+[2025-06-19T11:16:27.119-0300] {taskinstance.py:1632} ERROR - Received SIGTERM. Terminating subprocesses.
+[2025-06-19T11:16:27.119-0300] {subprocess.py:104} INFO - Sending SIGTERM signal to process group
+[2025-06-19T11:16:27.136-0300] {taskinstance.py:1937} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/mnt/c/Users/arcan/Documents/airflow/.venv/lib/python3.10/site-packages/airflow/operators/bash.py", line 201, in execute
+    result = self.subprocess_hook.run_command(
+  File "/mnt/c/Users/arcan/Documents/airflow/.venv/lib/python3.10/site-packages/airflow/hooks/subprocess.py", line 91, in run_command
+    for raw_line in iter(self.sub_process.stdout.readline, b""):
+  File "/mnt/c/Users/arcan/Documents/airflow/.venv/lib/python3.10/site-packages/airflow/models/taskinstance.py", line 1634, in signal_handler
+    raise AirflowException("Task received SIGTERM signal")
+airflow.exceptions.AirflowException: Task received SIGTERM signal
+[2025-06-19T11:16:27.215-0300] {taskinstance.py:1400} INFO - Marking task as UP_FOR_RETRY. dag_id=testando_spark_submit, task_id=run_bronze_script, execution_date=20250618T141539, start_date=20250619T141608, end_date=20250619T141627
+[2025-06-19T11:16:27.265-0300] {standard_task_runner.py:104} ERROR - Failed to execute job 28 for task run_bronze_script (Task received SIGTERM signal; 3035)
+[2025-06-19T11:16:27.291-0300] {process_utils.py:79} INFO - Process psutil.Process(pid=3035, status='terminated', exitcode=1, started='11:16:08') (3035) terminated with exit code 1
+[2025-06-19T11:16:27.293-0300] {process_utils.py:79} INFO - Process psutil.Process(pid=3036, status='terminated', started='11:16:08') (3036) terminated with exit code None
