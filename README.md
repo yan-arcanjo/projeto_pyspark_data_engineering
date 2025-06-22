@@ -9,7 +9,10 @@ Este projeto simula um pipeline completo de engenharia de dados, utilizando extr
 
 ---
 
-![Fluxo do projeto](imgs/pipeline.png)
+<p align="center">
+  <img  src="imgs/pipeline.png">
+  <b>Fluxo do projeto</b>
+</p>
 
 ## 📊 Estrutura do Projeto
 
