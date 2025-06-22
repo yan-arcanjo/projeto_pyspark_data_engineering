@@ -9,6 +9,8 @@ Este projeto simula um pipeline completo de engenharia de dados, utilizando extr
 
 ---
 
+![Fluxo do projeto](imgs/pipeline.png)
+
 ## 📊 Estrutura do Projeto
 
 ```bash
@@ -55,6 +57,10 @@ O pipeline é composto por 3 tasks principais no DAG:
 ### 📷 Visualização do DAG
 
 ![DAG Airflow](imgs/dag_airflow.png)
+
+### 📷 Visualização do Estrutura de Pastas
+
+![Pastas](imgs/pastas.png)
 
 ### 🔧 Exemplo da Task `run_bronze_script`:
 

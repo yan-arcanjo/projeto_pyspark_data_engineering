@@ -2986,3 +2986,332 @@ ImportError: cannot import name 'PythonOperator' from 'airflow.operators.bash' (
 [2025-06-21T20:35:35.340-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:35:35.340-0300] {dag.py:2941} INFO - Sync 1 DAGs
 [2025-06-21T20:35:35.359-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:35:35.359-0300] {dag.py:3722} INFO - Setting next_dagrun for PIPELINE_COINGECKO to None, run_after=None
 [2025-06-21T20:35:35.448-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py took 0.289 seconds
+[2025-06-21T20:36:05.998-0300] {processor.py:157} INFO - Started process (PID=89796) to work on /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:36:06.001-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py for tasks to queue
+[2025-06-21T20:36:06.005-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:36:06.003-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:36:06.034-0300] {processor.py:839} INFO - DAG(s) dict_keys(['PIPELINE_COINGECKO']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:36:06.228-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:36:06.228-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-21T20:36:06.249-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:36:06.249-0300] {dag.py:3722} INFO - Setting next_dagrun for PIPELINE_COINGECKO to None, run_after=None
+[2025-06-21T20:36:06.348-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py took 0.355 seconds
+[2025-06-21T20:36:37.066-0300] {processor.py:157} INFO - Started process (PID=89813) to work on /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:36:37.068-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py for tasks to queue
+[2025-06-21T20:36:37.070-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:36:37.069-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:36:37.090-0300] {processor.py:839} INFO - DAG(s) dict_keys(['PIPELINE_COINGECKO']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:36:37.222-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:36:37.222-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-21T20:36:37.237-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:36:37.236-0300] {dag.py:3722} INFO - Setting next_dagrun for PIPELINE_COINGECKO to None, run_after=None
+[2025-06-21T20:36:37.316-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py took 0.254 seconds
+[2025-06-21T20:37:07.930-0300] {processor.py:157} INFO - Started process (PID=89819) to work on /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:37:07.932-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py for tasks to queue
+[2025-06-21T20:37:07.934-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:37:07.933-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:37:07.957-0300] {processor.py:839} INFO - DAG(s) dict_keys(['PIPELINE_COINGECKO']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:37:08.097-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:37:08.097-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-21T20:37:08.117-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:37:08.117-0300] {dag.py:3722} INFO - Setting next_dagrun for PIPELINE_COINGECKO to None, run_after=None
+[2025-06-21T20:37:08.190-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py took 0.265 seconds
+[2025-06-21T20:37:38.840-0300] {processor.py:157} INFO - Started process (PID=89831) to work on /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:37:38.842-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py for tasks to queue
+[2025-06-21T20:37:38.843-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:37:38.843-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:37:38.866-0300] {processor.py:839} INFO - DAG(s) dict_keys(['PIPELINE_COINGECKO']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:37:39.002-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:37:39.002-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-21T20:37:39.019-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:37:39.019-0300] {dag.py:3722} INFO - Setting next_dagrun for PIPELINE_COINGECKO to None, run_after=None
+[2025-06-21T20:37:39.109-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py took 0.274 seconds
+[2025-06-21T20:38:09.677-0300] {processor.py:157} INFO - Started process (PID=89842) to work on /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:38:09.678-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py for tasks to queue
+[2025-06-21T20:38:09.679-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:38:09.679-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:38:09.699-0300] {processor.py:839} INFO - DAG(s) dict_keys(['PIPELINE_COINGECKO']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:38:09.826-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:38:09.825-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-21T20:38:09.840-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:38:09.840-0300] {dag.py:3722} INFO - Setting next_dagrun for PIPELINE_COINGECKO to None, run_after=None
+[2025-06-21T20:38:09.922-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py took 0.249 seconds
+[2025-06-21T20:38:40.001-0300] {processor.py:157} INFO - Started process (PID=89958) to work on /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:38:40.003-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py for tasks to queue
+[2025-06-21T20:38:40.005-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:38:40.004-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:38:40.029-0300] {processor.py:839} INFO - DAG(s) dict_keys(['PIPELINE_COINGECKO']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:38:40.175-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:38:40.175-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-21T20:38:40.193-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:38:40.193-0300] {dag.py:3722} INFO - Setting next_dagrun for PIPELINE_COINGECKO to None, run_after=None
+[2025-06-21T20:38:40.276-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py took 0.278 seconds
+[2025-06-21T20:39:10.421-0300] {processor.py:157} INFO - Started process (PID=89962) to work on /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:39:10.423-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py for tasks to queue
+[2025-06-21T20:39:10.425-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:39:10.424-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:39:10.451-0300] {processor.py:839} INFO - DAG(s) dict_keys(['PIPELINE_COINGECKO']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:39:10.598-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:39:10.598-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-21T20:39:10.617-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:39:10.617-0300] {dag.py:3722} INFO - Setting next_dagrun for PIPELINE_COINGECKO to None, run_after=None
+[2025-06-21T20:39:10.708-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py took 0.292 seconds
+[2025-06-21T20:39:41.363-0300] {processor.py:157} INFO - Started process (PID=89969) to work on /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:39:41.365-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py for tasks to queue
+[2025-06-21T20:39:41.366-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:39:41.366-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:39:41.390-0300] {processor.py:839} INFO - DAG(s) dict_keys(['PIPELINE_COINGECKO']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:39:41.557-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:39:41.557-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-21T20:39:41.577-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:39:41.577-0300] {dag.py:3722} INFO - Setting next_dagrun for PIPELINE_COINGECKO to None, run_after=None
+[2025-06-21T20:39:41.686-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py took 0.327 seconds
+[2025-06-21T20:40:11.821-0300] {processor.py:157} INFO - Started process (PID=89976) to work on /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:40:11.823-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py for tasks to queue
+[2025-06-21T20:40:11.825-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:40:11.824-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:40:11.850-0300] {processor.py:839} INFO - DAG(s) dict_keys(['PIPELINE_COINGECKO']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:40:12.004-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:40:12.004-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-21T20:40:12.024-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:40:12.024-0300] {dag.py:3722} INFO - Setting next_dagrun for PIPELINE_COINGECKO to None, run_after=None
+[2025-06-21T20:40:12.111-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py took 0.296 seconds
+[2025-06-21T20:40:43.255-0300] {processor.py:157} INFO - Started process (PID=89986) to work on /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:40:43.257-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py for tasks to queue
+[2025-06-21T20:40:43.259-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:40:43.258-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:40:43.284-0300] {processor.py:839} INFO - DAG(s) dict_keys(['PIPELINE_COINGECKO']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:40:43.457-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:40:43.456-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-21T20:40:43.477-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:40:43.477-0300] {dag.py:3722} INFO - Setting next_dagrun for PIPELINE_COINGECKO to None, run_after=None
+[2025-06-21T20:40:43.574-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py took 0.325 seconds
+[2025-06-21T20:41:13.881-0300] {processor.py:157} INFO - Started process (PID=89993) to work on /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:41:13.883-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py for tasks to queue
+[2025-06-21T20:41:13.885-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:41:13.884-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:41:13.910-0300] {processor.py:839} INFO - DAG(s) dict_keys(['PIPELINE_COINGECKO']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:41:14.047-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:41:14.046-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-21T20:41:14.063-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:41:14.063-0300] {dag.py:3722} INFO - Setting next_dagrun for PIPELINE_COINGECKO to None, run_after=None
+[2025-06-21T20:41:14.143-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py took 0.267 seconds
+[2025-06-21T20:41:44.318-0300] {processor.py:157} INFO - Started process (PID=90009) to work on /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:41:44.320-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py for tasks to queue
+[2025-06-21T20:41:44.321-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:41:44.321-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:41:44.344-0300] {processor.py:839} INFO - DAG(s) dict_keys(['PIPELINE_COINGECKO']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:41:44.481-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:41:44.481-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-21T20:41:44.497-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:41:44.497-0300] {dag.py:3722} INFO - Setting next_dagrun for PIPELINE_COINGECKO to None, run_after=None
+[2025-06-21T20:41:44.574-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py took 0.262 seconds
+[2025-06-21T20:42:15.690-0300] {processor.py:157} INFO - Started process (PID=90033) to work on /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:42:15.691-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py for tasks to queue
+[2025-06-21T20:42:15.695-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:42:15.694-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:42:15.720-0300] {processor.py:839} INFO - DAG(s) dict_keys(['PIPELINE_COINGECKO']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:42:15.865-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:42:15.865-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-21T20:42:15.883-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:42:15.883-0300] {dag.py:3722} INFO - Setting next_dagrun for PIPELINE_COINGECKO to None, run_after=None
+[2025-06-21T20:42:15.975-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py took 0.291 seconds
+[2025-06-21T20:42:49.035-0300] {processor.py:157} INFO - Started process (PID=90061) to work on /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:42:49.037-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py for tasks to queue
+[2025-06-21T20:42:49.039-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:42:49.038-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:42:49.063-0300] {processor.py:839} INFO - DAG(s) dict_keys(['PIPELINE_COINGECKO']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:42:49.201-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:42:49.201-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-21T20:42:49.219-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:42:49.219-0300] {dag.py:3722} INFO - Setting next_dagrun for PIPELINE_COINGECKO to None, run_after=None
+[2025-06-21T20:42:49.298-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py took 0.269 seconds
+[2025-06-21T20:43:19.596-0300] {processor.py:157} INFO - Started process (PID=90083) to work on /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:43:19.599-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py for tasks to queue
+[2025-06-21T20:43:19.601-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:43:19.600-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:43:19.625-0300] {processor.py:839} INFO - DAG(s) dict_keys(['PIPELINE_COINGECKO']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:43:19.771-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:43:19.770-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-21T20:43:19.790-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:43:19.789-0300] {dag.py:3722} INFO - Setting next_dagrun for PIPELINE_COINGECKO to None, run_after=None
+[2025-06-21T20:43:19.868-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py took 0.277 seconds
+[2025-06-21T20:43:49.976-0300] {processor.py:157} INFO - Started process (PID=90087) to work on /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:43:49.978-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py for tasks to queue
+[2025-06-21T20:43:49.980-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:43:49.979-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:43:50.007-0300] {processor.py:839} INFO - DAG(s) dict_keys(['PIPELINE_COINGECKO']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:43:50.154-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:43:50.154-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-21T20:43:50.175-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:43:50.174-0300] {dag.py:3722} INFO - Setting next_dagrun for PIPELINE_COINGECKO to None, run_after=None
+[2025-06-21T20:43:50.261-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py took 0.290 seconds
+[2025-06-21T20:44:20.718-0300] {processor.py:157} INFO - Started process (PID=90094) to work on /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:44:20.720-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py for tasks to queue
+[2025-06-21T20:44:20.722-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:44:20.721-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:44:20.747-0300] {processor.py:839} INFO - DAG(s) dict_keys(['PIPELINE_COINGECKO']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:44:20.891-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:44:20.890-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-21T20:44:20.911-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:44:20.910-0300] {dag.py:3722} INFO - Setting next_dagrun for PIPELINE_COINGECKO to None, run_after=None
+[2025-06-21T20:44:20.994-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py took 0.280 seconds
+[2025-06-21T20:44:51.862-0300] {processor.py:157} INFO - Started process (PID=90099) to work on /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:44:51.864-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py for tasks to queue
+[2025-06-21T20:44:51.866-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:44:51.865-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:44:51.889-0300] {processor.py:839} INFO - DAG(s) dict_keys(['PIPELINE_COINGECKO']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:44:52.034-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:44:52.034-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-21T20:44:52.060-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:44:52.060-0300] {dag.py:3722} INFO - Setting next_dagrun for PIPELINE_COINGECKO to None, run_after=None
+[2025-06-21T20:44:52.142-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py took 0.285 seconds
+[2025-06-21T20:45:22.486-0300] {processor.py:157} INFO - Started process (PID=90110) to work on /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:45:22.489-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py for tasks to queue
+[2025-06-21T20:45:22.491-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:45:22.490-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:45:22.514-0300] {processor.py:839} INFO - DAG(s) dict_keys(['PIPELINE_COINGECKO']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:45:22.660-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:45:22.660-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-21T20:45:22.678-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:45:22.678-0300] {dag.py:3722} INFO - Setting next_dagrun for PIPELINE_COINGECKO to None, run_after=None
+[2025-06-21T20:45:22.765-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py took 0.283 seconds
+[2025-06-21T20:45:53.792-0300] {processor.py:157} INFO - Started process (PID=90117) to work on /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:45:53.794-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py for tasks to queue
+[2025-06-21T20:45:53.797-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:45:53.796-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:45:53.827-0300] {processor.py:839} INFO - DAG(s) dict_keys(['PIPELINE_COINGECKO']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:45:53.991-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:45:53.991-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-21T20:45:54.019-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:45:54.019-0300] {dag.py:3722} INFO - Setting next_dagrun for PIPELINE_COINGECKO to None, run_after=None
+[2025-06-21T20:45:54.093-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py took 0.310 seconds
+[2025-06-21T20:46:24.851-0300] {processor.py:157} INFO - Started process (PID=90230) to work on /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:46:24.852-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py for tasks to queue
+[2025-06-21T20:46:24.854-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:46:24.853-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:46:24.876-0300] {processor.py:839} INFO - DAG(s) dict_keys(['PIPELINE_COINGECKO']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:46:25.015-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:46:25.015-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-21T20:46:25.032-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:46:25.032-0300] {dag.py:3722} INFO - Setting next_dagrun for PIPELINE_COINGECKO to None, run_after=None
+[2025-06-21T20:46:25.109-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py took 0.264 seconds
+[2025-06-21T20:46:55.381-0300] {processor.py:157} INFO - Started process (PID=90236) to work on /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:46:55.383-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py for tasks to queue
+[2025-06-21T20:46:55.384-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:46:55.384-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:46:55.407-0300] {processor.py:839} INFO - DAG(s) dict_keys(['PIPELINE_COINGECKO']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:46:55.540-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:46:55.540-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-21T20:46:55.557-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:46:55.556-0300] {dag.py:3722} INFO - Setting next_dagrun for PIPELINE_COINGECKO to None, run_after=None
+[2025-06-21T20:46:55.639-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py took 0.261 seconds
+[2025-06-21T20:47:26.762-0300] {processor.py:157} INFO - Started process (PID=90242) to work on /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:47:26.764-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py for tasks to queue
+[2025-06-21T20:47:26.766-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:47:26.765-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:47:26.788-0300] {processor.py:839} INFO - DAG(s) dict_keys(['PIPELINE_COINGECKO']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:47:26.934-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:47:26.933-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-21T20:47:26.952-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:47:26.951-0300] {dag.py:3722} INFO - Setting next_dagrun for PIPELINE_COINGECKO to None, run_after=None
+[2025-06-21T20:47:27.028-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py took 0.272 seconds
+[2025-06-21T20:47:59.565-0300] {processor.py:157} INFO - Started process (PID=90252) to work on /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:47:59.566-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py for tasks to queue
+[2025-06-21T20:47:59.568-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:47:59.568-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:47:59.589-0300] {processor.py:839} INFO - DAG(s) dict_keys(['PIPELINE_COINGECKO']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:47:59.728-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:47:59.728-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-21T20:47:59.745-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:47:59.745-0300] {dag.py:3722} INFO - Setting next_dagrun for PIPELINE_COINGECKO to None, run_after=None
+[2025-06-21T20:47:59.830-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py took 0.270 seconds
+[2025-06-21T20:48:30.265-0300] {processor.py:157} INFO - Started process (PID=90259) to work on /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:48:30.268-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py for tasks to queue
+[2025-06-21T20:48:30.270-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:48:30.269-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:48:30.294-0300] {processor.py:839} INFO - DAG(s) dict_keys(['PIPELINE_COINGECKO']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:48:30.443-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:48:30.443-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-21T20:48:30.463-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:48:30.463-0300] {dag.py:3722} INFO - Setting next_dagrun for PIPELINE_COINGECKO to None, run_after=None
+[2025-06-21T20:48:30.554-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py took 0.294 seconds
+[2025-06-21T20:49:01.188-0300] {processor.py:157} INFO - Started process (PID=90263) to work on /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:49:01.190-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py for tasks to queue
+[2025-06-21T20:49:01.192-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:49:01.191-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:49:01.216-0300] {processor.py:839} INFO - DAG(s) dict_keys(['PIPELINE_COINGECKO']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:49:01.363-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:49:01.363-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-21T20:49:01.383-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:49:01.383-0300] {dag.py:3722} INFO - Setting next_dagrun for PIPELINE_COINGECKO to None, run_after=None
+[2025-06-21T20:49:01.466-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py took 0.283 seconds
+[2025-06-21T20:49:31.595-0300] {processor.py:157} INFO - Started process (PID=90267) to work on /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:49:31.597-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py for tasks to queue
+[2025-06-21T20:49:31.599-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:49:31.598-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:49:31.623-0300] {processor.py:839} INFO - DAG(s) dict_keys(['PIPELINE_COINGECKO']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:49:31.770-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:49:31.770-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-21T20:49:31.788-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:49:31.788-0300] {dag.py:3722} INFO - Setting next_dagrun for PIPELINE_COINGECKO to None, run_after=None
+[2025-06-21T20:49:31.896-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py took 0.305 seconds
+[2025-06-21T20:50:02.453-0300] {processor.py:157} INFO - Started process (PID=90280) to work on /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:50:02.455-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py for tasks to queue
+[2025-06-21T20:50:02.457-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:50:02.456-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:50:02.478-0300] {processor.py:839} INFO - DAG(s) dict_keys(['PIPELINE_COINGECKO']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:50:02.618-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:50:02.618-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-21T20:50:02.636-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:50:02.636-0300] {dag.py:3722} INFO - Setting next_dagrun for PIPELINE_COINGECKO to None, run_after=None
+[2025-06-21T20:50:02.725-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py took 0.276 seconds
+[2025-06-21T20:50:32.930-0300] {processor.py:157} INFO - Started process (PID=90285) to work on /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:50:32.932-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py for tasks to queue
+[2025-06-21T20:50:32.933-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:50:32.933-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:50:32.955-0300] {processor.py:839} INFO - DAG(s) dict_keys(['PIPELINE_COINGECKO']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:50:33.087-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:50:33.087-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-21T20:50:33.104-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:50:33.104-0300] {dag.py:3722} INFO - Setting next_dagrun for PIPELINE_COINGECKO to None, run_after=None
+[2025-06-21T20:50:33.188-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py took 0.262 seconds
+[2025-06-21T20:51:03.424-0300] {processor.py:157} INFO - Started process (PID=90289) to work on /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:51:03.426-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py for tasks to queue
+[2025-06-21T20:51:03.428-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:51:03.427-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:51:03.450-0300] {processor.py:839} INFO - DAG(s) dict_keys(['PIPELINE_COINGECKO']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:51:03.582-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:51:03.581-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-21T20:51:03.598-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:51:03.598-0300] {dag.py:3722} INFO - Setting next_dagrun for PIPELINE_COINGECKO to None, run_after=None
+[2025-06-21T20:51:03.678-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py took 0.259 seconds
+[2025-06-21T20:51:34.044-0300] {processor.py:157} INFO - Started process (PID=90294) to work on /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:51:34.046-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py for tasks to queue
+[2025-06-21T20:51:34.047-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:51:34.047-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:51:34.067-0300] {processor.py:839} INFO - DAG(s) dict_keys(['PIPELINE_COINGECKO']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:51:34.203-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:51:34.202-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-21T20:51:34.220-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:51:34.220-0300] {dag.py:3722} INFO - Setting next_dagrun for PIPELINE_COINGECKO to None, run_after=None
+[2025-06-21T20:51:34.303-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py took 0.263 seconds
+[2025-06-21T20:52:04.603-0300] {processor.py:157} INFO - Started process (PID=90300) to work on /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:52:04.605-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py for tasks to queue
+[2025-06-21T20:52:04.607-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:52:04.606-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:52:04.632-0300] {processor.py:839} INFO - DAG(s) dict_keys(['PIPELINE_COINGECKO']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:52:04.772-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:52:04.772-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-21T20:52:04.790-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:52:04.790-0300] {dag.py:3722} INFO - Setting next_dagrun for PIPELINE_COINGECKO to None, run_after=None
+[2025-06-21T20:52:04.869-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py took 0.272 seconds
+[2025-06-21T20:52:34.974-0300] {processor.py:157} INFO - Started process (PID=90310) to work on /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:52:34.976-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py for tasks to queue
+[2025-06-21T20:52:34.977-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:52:34.977-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:52:35.000-0300] {processor.py:839} INFO - DAG(s) dict_keys(['PIPELINE_COINGECKO']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:52:35.151-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:52:35.151-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-21T20:52:35.169-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:52:35.169-0300] {dag.py:3722} INFO - Setting next_dagrun for PIPELINE_COINGECKO to None, run_after=None
+[2025-06-21T20:52:35.254-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py took 0.285 seconds
+[2025-06-21T20:53:05.773-0300] {processor.py:157} INFO - Started process (PID=90317) to work on /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:53:05.775-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py for tasks to queue
+[2025-06-21T20:53:05.777-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:53:05.776-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:53:05.798-0300] {processor.py:839} INFO - DAG(s) dict_keys(['PIPELINE_COINGECKO']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:53:05.975-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:53:05.975-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-21T20:53:05.999-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:53:05.999-0300] {dag.py:3722} INFO - Setting next_dagrun for PIPELINE_COINGECKO to None, run_after=None
+[2025-06-21T20:53:06.106-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py took 0.337 seconds
+[2025-06-21T20:53:36.483-0300] {processor.py:157} INFO - Started process (PID=90322) to work on /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:53:36.485-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py for tasks to queue
+[2025-06-21T20:53:36.487-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:53:36.487-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:53:36.511-0300] {processor.py:839} INFO - DAG(s) dict_keys(['PIPELINE_COINGECKO']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:53:36.658-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:53:36.658-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-21T20:53:36.675-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:53:36.675-0300] {dag.py:3722} INFO - Setting next_dagrun for PIPELINE_COINGECKO to None, run_after=None
+[2025-06-21T20:53:36.757-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py took 0.280 seconds
+[2025-06-21T20:54:07.186-0300] {processor.py:157} INFO - Started process (PID=90435) to work on /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:54:07.190-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py for tasks to queue
+[2025-06-21T20:54:07.192-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:54:07.191-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:54:07.238-0300] {processor.py:839} INFO - DAG(s) dict_keys(['PIPELINE_COINGECKO']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:54:07.437-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:54:07.437-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-21T20:54:07.458-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:54:07.458-0300] {dag.py:3722} INFO - Setting next_dagrun for PIPELINE_COINGECKO to None, run_after=None
+[2025-06-21T20:54:07.556-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py took 0.376 seconds
+[2025-06-21T20:54:37.608-0300] {processor.py:157} INFO - Started process (PID=90443) to work on /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:54:37.610-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py for tasks to queue
+[2025-06-21T20:54:37.611-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:54:37.611-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:54:37.633-0300] {processor.py:839} INFO - DAG(s) dict_keys(['PIPELINE_COINGECKO']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:54:37.791-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:54:37.791-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-21T20:54:37.811-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:54:37.811-0300] {dag.py:3722} INFO - Setting next_dagrun for PIPELINE_COINGECKO to None, run_after=None
+[2025-06-21T20:54:37.897-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py took 0.294 seconds
+[2025-06-21T20:55:08.131-0300] {processor.py:157} INFO - Started process (PID=90453) to work on /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:55:08.133-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py for tasks to queue
+[2025-06-21T20:55:08.135-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:55:08.134-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:55:08.160-0300] {processor.py:839} INFO - DAG(s) dict_keys(['PIPELINE_COINGECKO']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:55:08.302-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:55:08.302-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-21T20:55:08.321-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:55:08.321-0300] {dag.py:3722} INFO - Setting next_dagrun for PIPELINE_COINGECKO to None, run_after=None
+[2025-06-21T20:55:08.410-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py took 0.284 seconds
+[2025-06-21T20:55:38.533-0300] {processor.py:157} INFO - Started process (PID=90458) to work on /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:55:38.535-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py for tasks to queue
+[2025-06-21T20:55:38.537-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:55:38.536-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:55:38.564-0300] {processor.py:839} INFO - DAG(s) dict_keys(['PIPELINE_COINGECKO']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:55:38.709-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:55:38.709-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-21T20:55:38.728-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:55:38.727-0300] {dag.py:3722} INFO - Setting next_dagrun for PIPELINE_COINGECKO to None, run_after=None
+[2025-06-21T20:55:38.813-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py took 0.285 seconds
+[2025-06-21T20:56:09.042-0300] {processor.py:157} INFO - Started process (PID=90465) to work on /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:56:09.043-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py for tasks to queue
+[2025-06-21T20:56:09.045-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:56:09.044-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:56:09.068-0300] {processor.py:839} INFO - DAG(s) dict_keys(['PIPELINE_COINGECKO']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:56:09.224-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:56:09.224-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-21T20:56:09.242-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:56:09.241-0300] {dag.py:3722} INFO - Setting next_dagrun for PIPELINE_COINGECKO to None, run_after=None
+[2025-06-21T20:56:09.327-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py took 0.289 seconds
+[2025-06-21T20:56:39.893-0300] {processor.py:157} INFO - Started process (PID=90469) to work on /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:56:39.896-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py for tasks to queue
+[2025-06-21T20:56:39.898-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:56:39.897-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:56:39.922-0300] {processor.py:839} INFO - DAG(s) dict_keys(['PIPELINE_COINGECKO']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:56:40.061-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:56:40.061-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-21T20:56:40.080-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:56:40.080-0300] {dag.py:3722} INFO - Setting next_dagrun for PIPELINE_COINGECKO to None, run_after=None
+[2025-06-21T20:56:40.163-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py took 0.275 seconds
+[2025-06-21T20:57:10.283-0300] {processor.py:157} INFO - Started process (PID=90479) to work on /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:57:10.285-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py for tasks to queue
+[2025-06-21T20:57:10.287-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:57:10.286-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:57:10.311-0300] {processor.py:839} INFO - DAG(s) dict_keys(['PIPELINE_COINGECKO']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:57:10.459-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:57:10.458-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-21T20:57:10.477-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:57:10.476-0300] {dag.py:3722} INFO - Setting next_dagrun for PIPELINE_COINGECKO to None, run_after=None
+[2025-06-21T20:57:10.560-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py took 0.282 seconds
+[2025-06-21T20:57:41.091-0300] {processor.py:157} INFO - Started process (PID=90486) to work on /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:57:41.093-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py for tasks to queue
+[2025-06-21T20:57:41.095-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:57:41.094-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:57:41.119-0300] {processor.py:839} INFO - DAG(s) dict_keys(['PIPELINE_COINGECKO']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:57:41.263-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:57:41.263-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-21T20:57:41.281-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:57:41.281-0300] {dag.py:3722} INFO - Setting next_dagrun for PIPELINE_COINGECKO to None, run_after=None
+[2025-06-21T20:57:41.363-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py took 0.277 seconds
+[2025-06-21T20:58:11.791-0300] {processor.py:157} INFO - Started process (PID=90490) to work on /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:58:11.793-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py for tasks to queue
+[2025-06-21T20:58:11.795-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:58:11.794-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:58:11.817-0300] {processor.py:839} INFO - DAG(s) dict_keys(['PIPELINE_COINGECKO']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:58:11.966-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:58:11.966-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-21T20:58:11.984-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:58:11.983-0300] {dag.py:3722} INFO - Setting next_dagrun for PIPELINE_COINGECKO to None, run_after=None
+[2025-06-21T20:58:12.075-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py took 0.290 seconds
+[2025-06-21T20:58:42.291-0300] {processor.py:157} INFO - Started process (PID=90494) to work on /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:58:42.294-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py for tasks to queue
+[2025-06-21T20:58:42.297-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:58:42.296-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:58:42.323-0300] {processor.py:839} INFO - DAG(s) dict_keys(['PIPELINE_COINGECKO']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:58:42.476-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:58:42.476-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-21T20:58:42.496-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:58:42.496-0300] {dag.py:3722} INFO - Setting next_dagrun for PIPELINE_COINGECKO to None, run_after=None
+[2025-06-21T20:58:42.590-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py took 0.304 seconds
+[2025-06-21T20:59:13.177-0300] {processor.py:157} INFO - Started process (PID=90501) to work on /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:59:13.179-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py for tasks to queue
+[2025-06-21T20:59:13.181-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:59:13.181-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:59:13.207-0300] {processor.py:839} INFO - DAG(s) dict_keys(['PIPELINE_COINGECKO']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:59:13.344-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:59:13.344-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-21T20:59:13.361-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:59:13.360-0300] {dag.py:3722} INFO - Setting next_dagrun for PIPELINE_COINGECKO to None, run_after=None
+[2025-06-21T20:59:13.437-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py took 0.265 seconds
+[2025-06-21T20:59:43.930-0300] {processor.py:157} INFO - Started process (PID=90511) to work on /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:59:43.933-0300] {processor.py:829} INFO - Processing file /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py for tasks to queue
+[2025-06-21T20:59:43.934-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:59:43.934-0300] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:59:43.959-0300] {processor.py:839} INFO - DAG(s) dict_keys(['PIPELINE_COINGECKO']) retrieved from /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py
+[2025-06-21T20:59:44.118-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:59:44.118-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-21T20:59:44.137-0300] {logging_mixin.py:154} INFO - [2025-06-21T20:59:44.137-0300] {dag.py:3722} INFO - Setting next_dagrun for PIPELINE_COINGECKO to None, run_after=None
+[2025-06-21T20:59:44.220-0300] {processor.py:179} INFO - Processing /mnt/c/Users/arcan/Documents/airflow/dags/pipeline_coingecko.py took 0.296 seconds
